@@ -3,46 +3,46 @@
 <string_table>
 	<!-- Sounds by mob_snds -->
 	<string id="characters_voice_scenario_escape_esc_trader_greet_1">
-		<text>English Subtitles.</text>
+		<text>Got anything good?</text>
 	</string>
 	<string id="characters_voice_scenario_escape_esc_trader_greet_2">
-		<text>English Subtitles.</text>
+		<text>How's it going?</text>
 	</string>
 	<string id="characters_voice_scenario_escape_esc_trader_greet_3">
-		<text>English Subtitles.</text>
+		<text>Well, hello there.</text>
 	</string>
 	<string id="characters_voice_scenario_escape_esc_trader_greet_4">
-		<text>English Subtitles.</text>
+		<text>What you got in there?</text>
 	</string>
 	<string id="characters_voice_scenario_escape_esc_trader_wait_1">
-		<text>English Subtitles.</text>
+		<text>Don't just stand there, eh?</text>
 	</string>
 	<string id="characters_voice_scenario_escape_esc_trader_wait_2">
-		<text>English Subtitles.</text>
+		<text>Come on, tell me what you got for me!</text>
 	</string>
 	<string id="characters_voice_scenario_escape_esc_trader_wait_3">
-		<text>English Subtitles.</text>
+		<text>Relax, don't be shy, what brings you here?</text>
 	</string>
 	<string id="characters_voice_scenario_escape_esc_trader_wait_4">
-		<text>English Subtitles.</text>
+		<text>Hello, anyone home?</text>
 	</string>
 	<string id="characters_voice_scenario_red_forest_red_forester_meet_hello_0">
-		<text>English Subtitles.</text>
+		<text>A living soul? Well, hello!</text>
 	</string>
 	<string id="characters_voice_scenario_red_forest_red_forester_meet_hello_1">
-		<text>English Subtitles.</text>
+		<text>What brings you to my forest, young man?</text>
 	</string>
 	<string id="characters_voice_scenario_red_forest_red_forester_meet_hello_2">
-		<text>English Subtitles.</text>
+		<text>Are you here on business or just taking a hike?</text>
 	</string>
 	<string id="characters_voice_scenario_red_forest_red_forester_hello_bye_0">
-		<text>English Subtitles.</text>
+		<text>Have a safe trip, son.</text>
 	</string>
 	<string id="characters_voice_scenario_red_forest_red_forester_hello_bye_1">
-		<text>English Subtitles.</text>
+		<text>Don't forget an old man!</text>
 	</string>
 	<string id="characters_voice_scenario_red_forest_red_forester_hello_bye_2">
-		<text>English Subtitles.</text>
+		<text>Hope to see you again!</text>
 	</string>
 	<!-- MARSH -->
 	<!-- Sounds by npc_snds -->
