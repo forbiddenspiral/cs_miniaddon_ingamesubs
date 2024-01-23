@@ -226,115 +226,115 @@
 	<!-- GARBAGE -->
 	<!-- Sounds by npc_snds -->
 	<string id="cc_characters_voice_scenario_garbage_gar_bandit_leader_meet_greet_a_1">
-		<text>English Subtitles.</text>
+		<text>Say what you got to say or get the hell out.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_bandit_leader_meet_greet_a_2">
-		<text>English Subtitles.</text>
+		<text>Who is this pretty boy we got here?</text>
 	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_bandit_leader_meet_greet_b_1">
-		<text>English Subtitles.</text>
+		<text>And to what do we owe this honor?</text>
 	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_bandit_leader_meet_bye_a_1">
-		<text>English Subtitles.</text>
+		<text>That was time well spent.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_bandit_leader_meet_bye_a_2">
-		<text>English Subtitles.</text>
+		<text>Thanks a lot and have a nice day!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_bandit_leader_meet_bye_b_1">
-		<text>English Subtitles.</text>
+		<text>Pop in my crib if you need something.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_bandit_leader_meet_bye_b_2">
-		<text>English Subtitles.</text>
+		<text>Something new comes up you holler at me.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_bandit_tech_meet_greet_1">
-		<text>English Subtitles.</text>
+		<text>You got the papers ready? All those excise labels and stuff got to be just right.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_bandit_tech_meet_greet_2">
-		<text>English Subtitles.</text>
+		<text>Quit shouting, my head is killing me!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_bandit_tech_meet_greet_3">
-		<text>English Subtitles.</text>
+		<text>Senka and I are always glad to see our customers.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_bandit_tech_meet_bye_1">
-		<text>English Subtitles.</text>
+		<text>I say it's time to catch a buzz. Senka, get up, you bum!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_bandit_tech_meet_bye_2">
-		<text>English Subtitles.</text>
+		<text>Thanks a bunch, yeah! Pour it Senka!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_bandit_tech_meet_bye_3">
-		<text>English Subtitles.</text>
+		<text>Leaving already? How about one for the road?</text>
 	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_bandit_trader_meet_greet_1">
-		<text>English Subtitles.</text>
+		<text>I'll be right with you!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_bandit_trader_meet_greet_2">
-		<text>English Subtitles.</text>
+		<text>What you carrying over there, son? Show me!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_bandit_trader_meet_greet_3">
-		<text>English Subtitles.</text>
+		<text>Got some loot? That's a beaut.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_bandit_trader_meet_bye_1">
-		<text>English Subtitles.</text>
+		<text>No loot, the point is moot.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_bandit_trader_meet_bye_2">
-		<text>English Subtitles.</text>
+		<text>Tell me, where do you dig up these things?</text>
 	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_bandit_trader_meet_bye_3">
-		<text>English Subtitles.</text>
+		<text>Have a nice doing business with you!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_bandit_barman_meet_greet_1">
-		<text>English Subtitles.</text>
+		<text>Looking for someone?</text>
 	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_bandit_barman_meet_greet_2">
-		<text>English Subtitles.</text>
+		<text>If your dumbass is looking for adventure, this is where we deal them out.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_bandit_barman_meet_greet_3">
-		<text>English Subtitles.</text>
+		<text>Looking for a tip or just some booze?</text>
 	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_bandit_barman_meet_bye_1">
-		<text>English Subtitles.</text>
+		<text>If the going gets tough, pay me a visit.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_bandit_barman_meet_bye_2">
-		<text>English Subtitles.</text>
+		<text>Keep our business hush hush, and you'll live longer.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_bandit_barman_meet_bye_3">
-		<text>English Subtitles.</text>
+		<text>If you want advice, drop in anytime.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_bandit_bookmaker_meet_greet_1">
-		<text>English Subtitles.</text>
+		<text>Let's put some holes in those birdies, huh?</text>
 	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_bandit_bookmaker_meet_greet_2">
-		<text>English Subtitles.</text>
+		<text>Something tells me a couple of those crows are going down.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_bandit_bookmaker_meet_greet_3">
-		<text>English Subtitles.</text>
+		<text>Come again, brother! Shoot some more!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_bandit_bookmaker_meet_bye_1">
-		<text>English Subtitles.</text>
+		<text>I like it when feathers fill the air!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_bandit_bookmaker_meet_bye_2">
-		<text>English Subtitles.</text>
+		<text>I like it when feathers fill the air!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_bandit_bookmaker_meet_bye_3">
-		<text>English Subtitles.</text>
+		<text>Butchering some varmint, now that's what I call fun!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_digger_leader_meet_greet_1">
-		<text>English Subtitles.</text>
+		<text>What up, brother?</text>
 	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_digger_leader_meet_greet_2">
-		<text>English Subtitles.</text>
+		<text>Hey, Merc!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_digger_leader_meet_greet_3">
-		<text>English Subtitles.</text>
+		<text>My best respects to an honest man.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_digger_leader_meet_bye_1">
-		<text>English Subtitles.</text>
+		<text>Have a pleasant journey!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_digger_leader_meet_bye_2">
-		<text>English Subtitles.</text>
+		<text>Farewell, brother.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_digger_leader_meet_bye_3">
-		<text>English Subtitles.</text>
+		<text>Take care, pal!</text>
 	</string>
 	<!-- Sounds by actor_snds -->
 	<!-- Sounds by obj_snds -->
