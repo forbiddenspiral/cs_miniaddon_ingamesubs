@@ -570,22 +570,22 @@
 	<!-- YANTAR -->
 	<!-- Sounds by npc_snds -->
 	<string id="cc_characters_voice_scenario_yantar_yan_sakharov_meet_1">
-		<text>English Subtitles.</text>
+		<text>How are you, young man?</text>
 	</string>
 	<string id="cc_characters_voice_scenario_yantar_yan_sakharov_meet_2">
-		<text>English Subtitles.</text>
+		<text>Welcome to our humble science lab!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_yantar_yan_sakharov_meet_3">
-		<text>English Subtitles.</text>
+		<text>To what do I owe the pleasure?</text>
 	</string>
 	<string id="cc_characters_voice_scenario_yantar_yan_sakharov_meet_bye_1">
-		<text>English Subtitles.</text>
+		<text>Best wishes!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_yantar_yan_sakharov_meet_bye_2">
-		<text>English Subtitles.</text>
+		<text>It was nice talking to you.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_yantar_yan_sakharov_meet_bye_3">
-		<text>English Subtitles.</text>
+		<text>Please, come back sometime.</text>
 	</string>
 	<!-- Sounds by actor_snds -->
 	<!-- Sounds by obj_snds -->
