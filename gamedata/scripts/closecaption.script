@@ -275,7 +275,7 @@ npc_snds =
 actor_snds =
 {
 	characters_voice_scenario_darkvalley_val_freedom_blockpost_enter	=	{11, "val_freedom_comendant_name"},
-	characters_voice_scenario_darkvalley_val_killer_trep	=	{15, "val_freedom_comendant_name"},
+	characters_voice_scenario_darkvalley_val_killer_trep	=	{15, "killer"},
 	-- characters_voice_scenario_agroprom_underground_agru_radio	=	{5, "sim_strelok_name"}, -- Strelok's PDA
 	characters_voice_scenario_military_mil_bs_dead	= {3.9, "mil_hog_name"},
 }
