@@ -548,7 +548,10 @@
 	</string>
 	<!-- Sounds by actor_snds -->
 	<string id="characters_voice_scenario_darkvalley_val_killer_trep">
-		<text>val_killer_trep</text>
+		<text>Shit man, way to screw up! What a rotten son of a bitch that commandant!
+		\nAll that horse shit he gave us about how the outpost was out of ammo!
+		\nThose freedom bastards wounded two of our boys!
+		\n%c[ui_8]Enough yapping! Let's cover up our tracks and get out of here!</text>
 	</string>
 	<!-- Sounds by obj_snds -->
 	<string id="characters_voice_scenario_darkvalley_val_freedom_megafon_rugan_1">
