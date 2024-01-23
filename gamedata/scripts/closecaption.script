@@ -59,6 +59,10 @@ tips_icons =
 	red_ally_leshiy_name          = "ui_npc_small_neutral_2_mask",
 	yan_st_levsha_name            = "ui_npc_small_neutral_2_mask",
 	yan_levshas_crew              = "ui_npc_small_neutral_2",
+
+	-- Subs additions:
+
+	gar_bandit_robbery						= "ui_npc_small_bandit_3",
 }
 
 --id																											=	{showtime}
@@ -285,12 +289,12 @@ obj_snds =
 	characters_voice_scenario_escape_megafon_4	=	{2, 5, 25000},
 	characters_voice_scenario_escape_esc_mil_target_detected	=	{1, 5, 25000},
 	characters_voice_scenario_escape_esc_mil_target_lost	=	{1, 5, 25000},
-	characters_voice_scenario_garbage_gar_robbery_scene_come_here_1	=	{-1, 5, "bandit"},
-	characters_voice_scenario_garbage_gar_robbery_scene_come_here_2	=	{-1, 5, "bandit"},
-	characters_voice_scenario_garbage_gar_robbery_scene_come_here_3	=	{-1, 5, "bandit"},
-	characters_voice_scenario_garbage_gar_robbery_scene_return_1	=	{-1, 5, "bandit"},
-	characters_voice_scenario_garbage_gar_robbery_scene_return_2	=	{-1, 5, "bandit"},
-	characters_voice_scenario_garbage_gar_robbery_scene_return_3	=	{-1, 5, "bandit"},
+	characters_voice_scenario_garbage_gar_robbery_scene_come_here_1	=	{-1, 5, "gar_bandit_robbery"},
+	characters_voice_scenario_garbage_gar_robbery_scene_come_here_2	=	{-1, 5, "gar_bandit_robbery"},
+	characters_voice_scenario_garbage_gar_robbery_scene_come_here_3	=	{-1, 5, "gar_bandit_robbery"},
+	characters_voice_scenario_garbage_gar_robbery_scene_return_1	=	{-1, 5, "gar_bandit_robbery"},
+	characters_voice_scenario_garbage_gar_robbery_scene_return_2	=	{-1, 5, "gar_bandit_robbery"},
+	characters_voice_scenario_garbage_gar_robbery_scene_return_3	=	{-1, 5, "gar_bandit_robbery"},
 	characters_voice_scenario_darkvalley_val_freedom_dead_squad_1	=	{-1, 5, "val_freedom_comendant_name"},
 	characters_voice_scenario_darkvalley_val_freedom_dead_squad_2	=	{-1, 5, "val_freedom_comendant_name"},
 	characters_voice_scenario_darkvalley_val_freedom_dead_squad_3	=	{-1, 5, "val_freedom_comendant_name"},
