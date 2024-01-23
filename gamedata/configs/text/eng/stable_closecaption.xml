@@ -92,61 +92,61 @@
 		<text>My zoo is always open to visitors.</text>
 	</string>
 	<string id="characters_voice_scenario_agroprom_agr_main_hole_actor_arrive">
-		<text>English Subtitles.</text>
+		<text>Stalker, we've been waiting for you. Come closer, I'll explain what's going on.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_agroprom_agr_secret_trader_meet_1">
-		<text>English Subtitles.</text>
+		<text>What brings you here, Merc?</text>
 	</string>
 	<string id="cc_characters_voice_scenario_agroprom_agr_secret_trader_meet_bye_1">
-		<text>English Subtitles.</text>
+		<text>No lead, no anomalies, nothing.</text>
 	</string>
 	<string id="characters_voice_scenario_agroprom_bloodsucker_comander_to_squad_1">
-		<text>English Subtitles.</text>
+		<text>Stand fast! Hold your positions!</text>
 	</string>
 	<string id="characters_voice_scenario_agroprom_bloodsucker_comander_to_squad_2">
-		<text>English Subtitles.</text>
+		<text>Don't panic!</text>
 	</string>
 	<string id="characters_voice_scenario_agroprom_bloodsucker_fear_1">
-		<text>English Subtitles.</text>
+		<text>Damn, what is that?</text>
 	</string>
 	<string id="characters_voice_scenario_agroprom_bloodsucker_fear_2">
-		<text>English Subtitles.</text>
+		<text>Did you hear that?</text>
 	</string>
 	<string id="characters_voice_scenario_agroprom_bloodsucker_fear_3">
-		<text>English Subtitles.</text>
+		<text>What was that?</text>
 	</string>
 	<string id="characters_voice_scenario_agroprom_bloodsucker_fear_after_1">
-		<text>English Subtitles.</text>
+		<text>Freakin' blood sucker!</text>
 	</string>
 	<string id="characters_voice_scenario_agroprom_bloodsucker_fear_after_2">
-		<text>English Subtitles.</text>
+		<text>Damn mutant!</text>
 	</string>
 	<string id="characters_voice_scenario_agroprom_bloodsucker_fear_after_3">
-		<text>English Subtitles.</text>
+		<text>Curse that bastard!</text>
 	</string>
 	<string id="characters_voice_scenario_agroprom_bloodsucker_fear_after_4">
-		<text>English Subtitles.</text>
+		<text>Oh crap, what the hell is that thing?</text>
 	</string>
 	<string id="characters_voice_scenario_agroprom_bloodsucker_fear_after_5">
-		<text>English Subtitles.</text>
+		<text>Keep your eyes peeled!</text>
 	</string>
 	<string id="characters_voice_scenario_agroprom_bloodsucker_fear_after_6">
-		<text>English Subtitles.</text>
+		<text>Boys, stay alert!</text>
 	</string>
 	<string id="characters_voice_scenario_agroprom_bloodsucker_fear_fire_1">
-		<text>English Subtitles.</text>
+		<text>Die, you blood-sucking scum!</text>
 	</string>
 	<string id="characters_voice_scenario_agroprom_bloodsucker_fear_fire_2">
-		<text>English Subtitles.</text>
+		<text>There it is!</text>
 	</string>
 	<string id="characters_voice_scenario_agroprom_bloodsucker_squad_fear_1">
-		<text>English Subtitles.</text>
+		<text>Not again!</text>
 	</string>
 	<string id="characters_voice_scenario_agroprom_bloodsucker_squad_fear_2">
-		<text>English Subtitles.</text>
+		<text>Let's hope we make it!</text>
 	</string>
 	<string id="characters_voice_scenario_agroprom_bloodsucker_squad_fear_3">
-		<text>English Subtitles.</text>
+		<text>Maybe it's nothing.</text>
 	</string>
 	<string id="characters_voice_scenario_agroprom_underground_agru_radio">
 		<text>%c[default]Guys, this is Strelok. I didn't expect Doc to fix me up so fast. I heard rumors that someone has learned of our success and is seeking to contact us. I have a bad feeling about this. I fear we may need to hurry up with our next visit to the center.
@@ -259,22 +259,22 @@
 			\n%c[ui_8]Enough yapping! Let's cover up our tracks and get out of here!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_escape_esc_stalker_leader_meet_1">
-		<text>English Subtitles.</text>
+		<text>Ah, a living soul in a realm of death and chaos!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_escape_esc_stalker_leader_meet_2">
-		<text>English Subtitles.</text>
+		<text>You were sent to me by none other than the hand of God, only I don't really know why or what for.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_escape_esc_stalker_leader_meet_3">
-		<text>English Subtitles.</text>
+		<text>Wanna know the truth about the zone? So do I. Let's share.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_escape_esc_stalker_leader_meet_bye_1">
-		<text>English Subtitles.</text>
+		<text>Alright, go on with your mission then, mercenary.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_escape_esc_stalker_leader_meet_bye_2">
-		<text>English Subtitles.</text>
+		<text>I'm positive you're not as simple as you look.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_escape_esc_stalker_leader_meet_bye_3">
-		<text>English Subtitles.</text>
+		<text>May God be with you and guide you in your endeavours.</text>
 	</string>
 	<string id="characters_voice_scenario_escape_esc_mil_target_detected">
 		<text>Alert! Stalker detected! Open fire!</text>
@@ -487,13 +487,13 @@
 		<text>Senka and I are always glad to see our customers.</text>
 	</string>
 	<string id="characters_voice_scenario_limansk_lim_cs_reconnaissance_squad_electricity_off_pda">
-		<text>English Subtitles.</text>
+		<text>Great, the power to the fence has been cut. Advance.</text>
 	</string>
 	<string id="characters_voice_scenario_marsh_bloodsucker_comander_to_squad_1">
-		<text>English Subtitles.</text>
+		<text>Don't fret, hold your positions!</text>
 	</string>
 	<string id="characters_voice_scenario_marsh_bloodsucker_comander_to_squad_2">
-		<text>English Subtitles.</text>
+		<text>Don't panic!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_bandit_trader_meet_bye_1">
 		<text>No loot, the point is moot.</text>
@@ -532,46 +532,46 @@
 		<text>My best respects to an honest man.</text>
 	</string>
 	<string id="characters_voice_scenario_marsh_bloodsucker_fear_1">
-		<text>English Subtitles.</text>
+		<text>Damn, what is that?!</text>
 	</string>
 	<string id="characters_voice_scenario_marsh_bloodsucker_fear_2">
-		<text>English Subtitles.</text>
+		<text>Did you hear that?</text>
 	</string>
 	<string id="characters_voice_scenario_marsh_bloodsucker_fear_3">
-		<text>English Subtitles.</text>
+		<text>What was that?!</text>
 	</string>
 	<string id="characters_voice_scenario_marsh_bloodsucker_fear_after_1">
-		<text>English Subtitles.</text>
+		<text>A friggin' bloodsucker!</text>
 	</string>
 	<string id="characters_voice_scenario_marsh_bloodsucker_fear_after_2">
-		<text>English Subtitles.</text>
+		<text>Damn mutant!</text>
 	</string>
 	<string id="characters_voice_scenario_marsh_bloodsucker_fear_after_3">
-		<text>English Subtitles.</text>
+		<text>Curse that bastard!</text>
 	</string>
 	<string id="characters_voice_scenario_marsh_bloodsucker_fear_after_4">
-		<text>English Subtitles.</text>
+		<text>Oh crap, what the hell is that thing?</text>
 	</string>
 	<string id="characters_voice_scenario_marsh_bloodsucker_fear_after_5">
-		<text>English Subtitles.</text>
+		<text>Keep your eyes peeled!</text>
 	</string>
 	<string id="characters_voice_scenario_marsh_bloodsucker_fear_after_6">
-		<text>English Subtitles.</text>
+		<text>Boys, stay alert!</text>
 	</string>
 	<string id="characters_voice_scenario_marsh_bloodsucker_fear_fire_1">
-		<text>English Subtitles.</text>
+		<text>Die, you blood-sucking scum!</text>
 	</string>
 	<string id="characters_voice_scenario_marsh_bloodsucker_fear_fire_2">
-		<text>English Subtitles.</text>
+		<text>There it is!</text>
 	</string>
 	<string id="characters_voice_scenario_marsh_bloodsucker_squad_fear_1">
-		<text>English Subtitles.</text>
+		<text>Not again!</text>
 	</string>
 	<string id="characters_voice_scenario_marsh_bloodsucker_squad_fear_2">
-		<text>English Subtitles.</text>
+		<text>Cross your fingers!</text>
 	</string>
 	<string id="characters_voice_scenario_marsh_bloodsucker_squad_fear_3">
-		<text>English Subtitles.</text>
+		<text>Maybe I'm just hearing things.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_barman_meet_bye_1">
 		<text>Pop in anytime you feel like chatting.</text>

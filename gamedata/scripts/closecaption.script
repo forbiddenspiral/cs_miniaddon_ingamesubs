@@ -155,6 +155,8 @@ npc_snds =
 	characters_voice_scenario_escape_esc_military_prisoner_meet_bye_1	= {2.6},
 	characters_voice_scenario_escape_esc_military_prisoner_meet_bye_2	= {1.7},
 	characters_voice_scenario_escape_esc_military_prisoner_meet_bye_3	= {5.1},
+	characters_voice_scenario_agroprom_agr_secret_trader_meet_1	= {1.3},
+	characters_voice_scenario_agroprom_agr_secret_trader_meet_bye_1	= {2.2},
 	--- Bandits
 	characters_voice_scenario_garbage_gar_bandit_leader_meet_greet_a_1	= {3.1},
 	characters_voice_scenario_garbage_gar_bandit_leader_meet_greet_a_2	= {2.4},
