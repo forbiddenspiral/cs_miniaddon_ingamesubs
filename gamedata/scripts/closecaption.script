@@ -613,9 +613,9 @@ obj_snds =
 	characters_voice_scenario_garbage_gar_robbery_scene_return_1	=	{-1, 3.3, "gar_bandit_robbery"},
 	characters_voice_scenario_garbage_gar_robbery_scene_return_2	=	{-1, 2.5, "gar_bandit_robbery"},
 	characters_voice_scenario_garbage_gar_robbery_scene_return_3	=	{-1, 2.6, "gar_bandit_robbery"},
-	characters_voice_scenario_hospital_hospital_gunfire_1	=	{-1, 5, "temporal_icon"},
-	characters_voice_scenario_hospital_hospital_sniper_1	=	{-1, 5, "temporal_icon"},
-	characters_voice_scenario_hospital_expl_door	=	{-1, 5, "temporal_icon"},
+	-- characters_voice_scenario_hospital_hospital_gunfire_1	=	{-1, 5, "temporal_icon"},
+	-- characters_voice_scenario_hospital_hospital_sniper_1	=	{-1, 5, "temporal_icon"},
+	-- characters_voice_scenario_hospital_expl_door	=	{-1, 5, "temporal_icon"},
 }
 
 -- p:string
