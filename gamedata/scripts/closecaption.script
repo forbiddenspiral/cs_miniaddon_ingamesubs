@@ -63,6 +63,7 @@ tips_icons =
 	-- Subs additions:
 
 	gar_bandit_robbery						= "ui_npc_small_bandit_3",
+	temporal_icon									= "ui_npc_small_zombied_4",
 }
 
 --id																											=	{showtime}
