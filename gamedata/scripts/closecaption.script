@@ -310,6 +310,7 @@ obj_snds =
 	characters_voice_scenario_escape_megafon_2	=	{2, 9.2, 25000},
 	characters_voice_scenario_escape_megafon_3	=	{2, 14.8, 25000},
 	characters_voice_scenario_escape_megafon_4	=	{2, 31.6, 25000},
+	--[[
 	characters_voice_scenario_escape_megafon_alarm_1	=	{2, 4.5, 25000},
 	characters_voice_scenario_escape_megafon_alarm_2	=	{2, 3.5, 25000},
 	characters_voice_scenario_escape_megafon_alarm_3	=	{2, 1.8, 25000},
@@ -323,6 +324,7 @@ obj_snds =
 	characters_voice_scenario_escape_megafon_alarm_11	=	{2, 1.9, 25000},
 	characters_voice_scenario_escape_megafon_alarm_12	=	{2, 2.4, 25000},
 	characters_voice_scenario_escape_megafon_alarm_13	=	{2, 3.4, 25000},
+	]]
 	characters_voice_scenario_escape_esc_mil_target_lost	=	{1, 3.8, 25000},
 	characters_voice_scenario_escape_esc_mil_target_detected	=	{1, 3.3, 25000},
 	characters_voice_scenario_garbage_gar_robbery_scene_come_here_1	=	{-1, 3.5, "gar_bandit_robbery"},
