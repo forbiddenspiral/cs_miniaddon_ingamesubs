@@ -218,10 +218,10 @@
 		<text>English Subtitles.</text>
 	</string>
 	<string id="characters_voice_scenario_escape_esc_mil_target_detected">
-		<text>English Subtitles.</text>
+		<text>Alert! Stalker detected! Open fire!</text>
 	</string>
 	<string id="characters_voice_scenario_escape_esc_mil_target_lost">
-		<text>English Subtitles.</text>
+		<text>Target lost! Officer, take your men and clear the sector!</text>
 	</string>
 	<!-- GARBAGE -->
 	<!-- Sounds by npc_snds -->
