@@ -457,94 +457,94 @@
 	<!-- DARKVALLEY -->
 	<!-- Sounds by npc_snds -->
 	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_leader_meet_1">
-		<text>English Subtitles.</text>
+		<text>Howdy, partner!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_leader_meet_2">
-		<text>English Subtitles.</text>
+		<text>Welcome to my humble abode!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_leader_meet_3">
-		<text>English Subtitles.</text>
+		<text>Come in! Come in, stalker!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_leader_meet_bye_1">
-		<text>English Subtitles.</text>
+		<text>All right, enough talking, let's get to work.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_leader_meet_bye_2">
-		<text>English Subtitles.</text>
+		<text>Good luck. Keep me abreast of any new information.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_leader_meet_bye_3">
-		<text>English Subtitles.</text>
+		<text>Good luck! Come back anytime!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_comendant_meet_1">
-		<text>English Subtitles.</text>
+		<text>Who is it again? I ain't got time for this, you hear?</text>
 	</string>
 	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_comendant_meet_2">
-		<text>English Subtitles.</text>
+		<text>What's this, your backyard? Who let you in?</text>
 	</string>
 	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_comendant_meet_3">
-		<text>English Subtitles.</text>
+		<text>Me again? Man, what a lousy day!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_comendant_meet_bye_1">
-		<text>English Subtitles.</text>
+		<text>Too many bombs around here.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_comendant_meet_bye_2">
-		<text>English Subtitles.</text>
+		<text>And quit bothering me over nothing! I'm busy!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_comendant_meet_bye_3">
-		<text>English Subtitles.</text>
+		<text>You had better go monster hunting instead of distracting important people.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_barmen_meet_1">
-		<text>English Subtitles.</text>
+		<text>Yo bro, I'll be with you in a sec.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_barmen_meet_2">
-		<text>English Subtitles.</text>
+		<text>Want some good old medicine? You came to the right place, dude!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_barmen_meet_3">
-		<text>English Subtitles.</text>
+		<text>Gimme five, bro! What's it gonna be? A hard drink or a soft smoke?</text>
 	</string>
 	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_barmen_meet_bye_1">
-		<text>English Subtitles.</text>
+		<text>Come by next week, we're expecting some real high class herb that'll get you higher than high.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_barmen_meet_bye_2">
-		<text>English Subtitles.</text>
+		<text>If you want to lift the elbow, swing by, I'm always here.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_barmen_meet_bye_3">
-		<text>English Subtitles.</text>
+		<text>Peace out, dude! Too bad we didn't roll a joint together.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_trader_meet_1">
-		<text>English Subtitles.</text>
+		<text>Wait a second, fella! I'll be right there!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_trader_meet_2">
-		<text>English Subtitles.</text>
+		<text>Come, come, let me teach you haggling 101!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_trader_meet_3">
-		<text>English Subtitles.</text>
+		<text>Alrighty, show me your harvest!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_trader_meet_bye_1">
-		<text>English Subtitles.</text>
+		<text>BAM BAM TAKE YOU MERCENARY!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_trader_meet_bye_2">
-		<text>English Subtitles.</text>
+		<text>Way to offload your crap on me! I'll know better next time!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_trader_meet_bye_3">
-		<text>English Subtitles.</text>
+		<text>Mercantilism's Mercantilism!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_fixer_meet_1">
-		<text>English Subtitles.</text>
+		<text>Howdy-doo, Mr. Stalker!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_fixer_meet_2">
-		<text>English Subtitles.</text>
+		<text>What have you got for me, sonny?</text>
 	</string>
 	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_fixer_meet_3">
-		<text>English Subtitles.</text>
+		<text>What did you break this time?</text>
 	</string>
 	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_fixer_meet_bye_1">
-		<text>English Subtitles.</text>
+		<text>Goodbye, laddie!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_fixer_meet_bye_2">
-		<text>English Subtitles.</text>
+		<text>Come see me if you need anything.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_fixer_meet_bye_3">
-		<text>English Subtitles.</text>
+		<text>Is it me, or are everyone's hands growing out of their asses? Nah, it's not me.</text>
 	</string>
 	<!-- Sounds by actor_snds -->
 	<string id="characters_voice_scenario_darkvalley_val_killer_trep">
