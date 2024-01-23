@@ -1,366 +1,23 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <!-- UI STRINGS FOR SUBS -->
 <string_table>
-	<!-- Sounds by mob_snds -->
-	<string id="characters_voice_scenario_escape_esc_trader_greet_1">
-		<text>Got anything good?</text>
+	<string id="cc_characters_voice_scenario_agroprom_agr_duty_barman_meet_1">
+		<text>What tickles your fancy, earning some coin or booze to spend it on?</text>
 	</string>
-	<string id="characters_voice_scenario_escape_esc_trader_greet_2">
-		<text>How's it going?</text>
+	<string id="cc_characters_voice_scenario_agroprom_agr_duty_barman_meet_2">
+		<text>Welcome to the best bar in the whole zone!</text>
 	</string>
-	<string id="characters_voice_scenario_escape_esc_trader_greet_3">
-		<text>Well, hello there.</text>
+	<string id="cc_characters_voice_scenario_agroprom_agr_duty_barman_meet_3">
+		<text>Let me patch you up, stalker.</text>
 	</string>
-	<string id="characters_voice_scenario_escape_esc_trader_greet_4">
-		<text>What you got in there?</text>
+	<string id="cc_characters_voice_scenario_agroprom_agr_duty_barman_meet_bye_1">
+		<text>Come by again to continue our conversation.</text>
 	</string>
-	<string id="characters_voice_scenario_escape_esc_trader_wait_1">
-		<text>Don't just stand there, eh?</text>
+	<string id="cc_characters_voice_scenario_agroprom_agr_duty_barman_meet_bye_2">
+		<text>If you hear something interesting, come keep me company.</text>
 	</string>
-	<string id="characters_voice_scenario_escape_esc_trader_wait_2">
-		<text>Come on, tell me what you got for me!</text>
-	</string>
-	<string id="characters_voice_scenario_escape_esc_trader_wait_3">
-		<text>Relax, don't be shy, what brings you here?</text>
-	</string>
-	<string id="characters_voice_scenario_escape_esc_trader_wait_4">
-		<text>Hello, anyone home?</text>
-	</string>
-	<string id="characters_voice_scenario_red_forest_red_forester_meet_hello_0">
-		<text>A living soul? Well, hello!</text>
-	</string>
-	<string id="characters_voice_scenario_red_forest_red_forester_meet_hello_1">
-		<text>What brings you to my forest, young man?</text>
-	</string>
-	<string id="characters_voice_scenario_red_forest_red_forester_meet_hello_2">
-		<text>Are you here on business or just taking a hike?</text>
-	</string>
-	<string id="characters_voice_scenario_red_forest_red_forester_hello_bye_0">
-		<text>Have a safe trip, son.</text>
-	</string>
-	<string id="characters_voice_scenario_red_forest_red_forester_hello_bye_1">
-		<text>Don't forget an old man!</text>
-	</string>
-	<string id="characters_voice_scenario_red_forest_red_forester_hello_bye_2">
-		<text>Hope to see you again!</text>
-	</string>
-	<!-- MARSH -->
-	<!-- Sounds by npc_snds -->
-  <string id="cc_characters_voice_scenario_marsh_mar_csky_leader_meet_greet_1">
-		<text>Something on your mind, Merc?</text>
-	</string>
-  <string id="cc_characters_voice_scenario_marsh_mar_csky_leader_meet_greet_2">
-		<text>Glad to see you. Got any new questions for me?</text>
-	</string>
-  <string id="cc_characters_voice_scenario_marsh_mar_csky_leader_meet_greet_3">
-		<text>What brings you here, mercenary?</text>
-	</string>
-  <string id="cc_characters_voice_scenario_marsh_mar_csky_leader_meet_greet_4">
-		<text>Speak of the devil, I was just thinking of you.</text>
-	</string>
-  <string id="cc_characters_voice_scenario_marsh_mar_csky_leader_meet_bye_1">
-		<text>If you learn any news, come back and share it with me.</text>
-	</string>
-  <string id="cc_characters_voice_scenario_marsh_mar_csky_leader_meet_bye_2">
-		<text>See you.</text>
-	</string>
-  <string id="cc_characters_voice_scenario_marsh_mar_csky_leader_meet_bye_3">
-		<text>Stay in touch, we may need your help soon.</text>
-	</string>
-  <string id="cc_characters_voice_scenario_marsh_mar_csky_leader_meet_bye_4">
-		<text>Come see me if you learn something important.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_marsh_mar_csky_doctor_meet_greet_1">
-		<text>Can I help you?</text>
-	</string>
-	<string id="cc_characters_voice_scenario_marsh_mar_csky_doctor_meet_greet_2">
-		<text>Oh, I didn't notice you come in.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_marsh_mar_csky_doctor_meet_greet_3">
-		<text>Ah, it's you!</text>
-	</string>
-	<string id="cc_characters_voice_scenario_marsh_mar_csky_doctor_meet_bye_1">
-		<text>If you need me, you know where to find me.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_marsh_mar_csky_doctor_meet_bye_2">
-		<text>Hmm, if that is all, I better get back to my work.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_marsh_mar_csky_doctor_meet_bye_3">
-		<text>Hopefully my answers will be of help to us all.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_marsh_mar_csky_barman_meet_greet_1">
-		<text>I see you. Just a minute.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_marsh_mar_csky_barman_meet_greet_2">
-		<text>Welcome back from the Afterworld!</text>
-	</string>
-	<string id="cc_characters_voice_scenario_marsh_mar_csky_barman_meet_greet_3">
-		<text>Look who we got visiting our swamps! You sure are a whiff of fresh air!</text>
-	</string>
-	<string id="cc_characters_voice_scenario_marsh_mar_csky_barman_meet_bye_1">
-		<text>Pop in anytime you feel like chatting.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_marsh_mar_csky_barman_meet_bye_2">
-		<text>Well, next time you're at the swamps, don't be a stranger.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_marsh_mar_csky_barman_meet_bye_3">
-		<text>Stop by for a chat anytime. This place is so boring.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_marsh_mar_csky_trader_meet_greet_1">
-		<text>A visitor? I'll be right there.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_marsh_mar_csky_trader_meet_greet_2">
-		<text>Hello there.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_marsh_mar_csky_trader_meet_greet_3">
-		<text>You're with us again, glad to see you.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_marsh_mar_csky_trader_meet_bye_1">
-		<text>Good luck to you.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_marsh_mar_csky_trader_meet_bye_2">
-		<text>Have a safe trip!</text>
-	</string>
-	<string id="cc_characters_voice_scenario_marsh_mar_csky_trader_meet_bye_3">
-		<text>Drop in next time you're in our neck of the woods.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_marsh_mar_csky_tech_meet_greet_1">
-		<text>I'll be there in a moment.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_marsh_mar_csky_tech_meet_greet_2">
-		<text>Need something upgraded or repaired? We got enough duct tape to patch the whole zone up if need be!</text>
-	</string>
-	<string id="cc_characters_voice_scenario_marsh_mar_csky_tech_meet_greet_3">
-		<text>I repair faults in hardware, not in its owner's arms.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_marsh_mar_csky_tech_meet_bye_1">
-		<text>Remember, to be a good shooter, get your gun talking at the right time.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_marsh_mar_csky_tech_meet_bye_2">
-		<text>You get anything else to fix, come to me for help.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_marsh_mar_csky_tech_meet_bye_3">
-		<text>Well, good luck!</text>
-	</string>
-	<!-- Sounds by actor_snds -->
-	<!-- Sounds by obj_snds -->
-	<!-- ESCAPE -->
-	<!-- Sounds by npc_snds -->
-	<string id="cc_characters_voice_scenario_escape_esc_stalker_trader_meet_1">
-		<text>I'm coming, I'm coming.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_escape_esc_stalker_trader_meet_2">
-		<text>What can I do you for?</text>
-	</string>
-	<string id="cc_characters_voice_scenario_escape_esc_stalker_trader_meet_3">
-		<text>Got something to sell?</text>
-	</string>
-	<string id="cc_characters_voice_scenario_escape_esc_stalker_trader_meet_bye_1">
-		<text>Sorry if I don't have what you're looking for.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_escape_esc_stalker_trader_meet_bye_2">
-		<text>Come back later, I might get a new shipment.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_escape_esc_stalker_trader_meet_bye_3">
-		<text>Nice doing business with an honest stalker.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_escape_esc_stalker_mechanic_meet_1">
-		<text>Got something that needs fixin'?</text>
-	</string>
-	<string id="cc_characters_voice_scenario_escape_esc_stalker_mechanic_meet_2">
-		<text>You wanna upgrade something or patch it up?</text>
-	</string>
-	<string id="cc_characters_voice_scenario_escape_esc_stalker_mechanic_meet_3">
-		<text>What can I do for you?</text>
-	</string>
-	<string id="cc_characters_voice_scenario_escape_esc_stalker_mechanic_meet_bye_1">
-		<text>If you need anything else, come by.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_escape_esc_stalker_mechanic_meet_bye_2">
-		<text>Sorry if I wasn't much help.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_escape_esc_stalker_mechanic_meet_bye_3">
-		<text>If you find some more upgrade parts, get them over here and we'll see what we can do.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_escape_esc_military_prisoner_meet_1">
-		<text>What you staring at? This ain't no zoo!</text>
-	</string>
-	<string id="cc_characters_voice_scenario_escape_esc_military_prisoner_meet_2">
-		<text>What's so interesting, huh? Friggin' idiots.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_escape_esc_military_prisoner_meet_3">
-		<text>Come, everyone, and rejoice, Kalatsky's in a cage!</text>
-	</string>
-	<string id="cc_characters_voice_scenario_escape_esc_military_prisoner_meet_bye_1">
-		<text>Get lost and stay lost, Merc!</text>
-	</string>
-	<string id="cc_characters_voice_scenario_escape_esc_military_prisoner_meet_bye_2">
-		<text>Good riddance.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_escape_esc_military_prisoner_meet_bye_3">
-		<text>Don't stop on your way out the door, and keep going till you hit an anomaly.</text>
-	</string>
-	<!-- Sounds by actor_snds -->
-	<!-- Sounds by obj_snds -->
-	<!-- From the original InGameCC mod -->
-	<string id="characters_voice_scenario_escape_megafon_1">
-		<text>Attention! You're approaching the secured perimeter of an ecological disaster zone! Illicit crossing of the perimeter is a criminal act!</text>
-	</string>
-	<string id="characters_voice_scenario_escape_megafon_2">
-		<text>Any attempt to penetrate the secured zone will be punished by any means necessary! Patrols have the right to shoot on sight!</text>
-	</string>
-	<string id="characters_voice_scenario_escape_megafon_3">
-		<text>The Zone poses mortal danger! We're here to protect you from the Zone, not the Zone from you. Do not jeopardize your life! Do not try to penetrate into the secured area!</text>
-	</string>
-	<string id="characters_voice_scenario_escape_megafon_4">
-		<text>The Security Service of Ukraine is calling all right minded and loyal citizens to collaborate with the authorities. Report all known cases of stalking! Do not let the looters hide behind your backs! They bring radioactive unidentified items from the Zone that are highly dangerous for human health and life. Only with your help can we eliminate this hideous phenomenon! Do not put your lifes and the lifes of your families at risk for the sake of dubious profit!</text>
-	</string>
-	<string id="characters_voice_scenario_escape_esc_mil_target_detected">
-		<text>Alert! Stalker detected! Open fire!</text>
-	</string>
-	<string id="characters_voice_scenario_escape_esc_mil_target_lost">
-		<text>Target lost! Officer, take your men and clear the sector!</text>
-	</string>
-	<!-- GARBAGE -->
-	<!-- Sounds by npc_snds -->
-	<string id="cc_characters_voice_scenario_garbage_gar_bandit_leader_meet_greet_a_1">
-		<text>Say what you got to say or get the hell out.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_garbage_gar_bandit_leader_meet_greet_a_2">
-		<text>Who is this pretty boy we got here?</text>
-	</string>
-	<string id="cc_characters_voice_scenario_garbage_gar_bandit_leader_meet_greet_b_1">
-		<text>And to what do we owe this honor?</text>
-	</string>
-	<string id="cc_characters_voice_scenario_garbage_gar_bandit_leader_meet_bye_a_1">
-		<text>That was time well spent.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_garbage_gar_bandit_leader_meet_bye_a_2">
-		<text>Thanks a lot and have a nice day!</text>
-	</string>
-	<string id="cc_characters_voice_scenario_garbage_gar_bandit_leader_meet_bye_b_1">
-		<text>Pop in my crib if you need something.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_garbage_gar_bandit_leader_meet_bye_b_2">
-		<text>Something new comes up you holler at me.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_garbage_gar_bandit_tech_meet_greet_1">
-		<text>You got the papers ready? All those excise labels and stuff got to be just right.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_garbage_gar_bandit_tech_meet_greet_2">
-		<text>Quit shouting, my head is killing me!</text>
-	</string>
-	<string id="cc_characters_voice_scenario_garbage_gar_bandit_tech_meet_greet_3">
-		<text>Senka and I are always glad to see our customers.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_garbage_gar_bandit_tech_meet_bye_1">
-		<text>I say it's time to catch a buzz. Senka, get up, you bum!</text>
-	</string>
-	<string id="cc_characters_voice_scenario_garbage_gar_bandit_tech_meet_bye_2">
-		<text>Thanks a bunch, yeah! Pour it Senka!</text>
-	</string>
-	<string id="cc_characters_voice_scenario_garbage_gar_bandit_tech_meet_bye_3">
-		<text>Leaving already? How about one for the road?</text>
-	</string>
-	<string id="cc_characters_voice_scenario_garbage_gar_bandit_trader_meet_greet_1">
-		<text>I'll be right with you!</text>
-	</string>
-	<string id="cc_characters_voice_scenario_garbage_gar_bandit_trader_meet_greet_2">
-		<text>What you carrying over there, son? Show me!</text>
-	</string>
-	<string id="cc_characters_voice_scenario_garbage_gar_bandit_trader_meet_greet_3">
-		<text>Got some loot? That's a beaut.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_garbage_gar_bandit_trader_meet_bye_1">
-		<text>No loot, the point is moot.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_garbage_gar_bandit_trader_meet_bye_2">
-		<text>Tell me, where do you dig up these things?</text>
-	</string>
-	<string id="cc_characters_voice_scenario_garbage_gar_bandit_trader_meet_bye_3">
-		<text>Have a nice doing business with you!</text>
-	</string>
-	<string id="cc_characters_voice_scenario_garbage_gar_bandit_barman_meet_greet_1">
-		<text>Looking for someone?</text>
-	</string>
-	<string id="cc_characters_voice_scenario_garbage_gar_bandit_barman_meet_greet_2">
-		<text>If your dumbass is looking for adventure, this is where we deal them out.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_garbage_gar_bandit_barman_meet_greet_3">
-		<text>Looking for a tip or just some booze?</text>
-	</string>
-	<string id="cc_characters_voice_scenario_garbage_gar_bandit_barman_meet_bye_1">
-		<text>If the going gets tough, pay me a visit.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_garbage_gar_bandit_barman_meet_bye_2">
-		<text>Keep our business hush hush, and you'll live longer.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_garbage_gar_bandit_barman_meet_bye_3">
-		<text>If you want advice, drop in anytime.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_garbage_gar_bandit_bookmaker_meet_greet_1">
-		<text>Let's put some holes in those birdies, huh?</text>
-	</string>
-	<string id="cc_characters_voice_scenario_garbage_gar_bandit_bookmaker_meet_greet_2">
-		<text>Something tells me a couple of those crows are going down.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_garbage_gar_bandit_bookmaker_meet_greet_3">
-		<text>Come again, brother! Shoot some more!</text>
-	</string>
-	<string id="cc_characters_voice_scenario_garbage_gar_bandit_bookmaker_meet_bye_1">
-		<text>I like it when feathers fill the air!</text>
-	</string>
-	<string id="cc_characters_voice_scenario_garbage_gar_bandit_bookmaker_meet_bye_2">
-		<text>I like it when feathers fill the air!</text>
-	</string>
-	<string id="cc_characters_voice_scenario_garbage_gar_bandit_bookmaker_meet_bye_3">
-		<text>Butchering some varmint, now that's what I call fun!</text>
-	</string>
-	<string id="cc_characters_voice_scenario_garbage_gar_digger_leader_meet_greet_1">
-		<text>What up, brother?</text>
-	</string>
-	<string id="cc_characters_voice_scenario_garbage_gar_digger_leader_meet_greet_2">
-		<text>Hey, Merc!</text>
-	</string>
-	<string id="cc_characters_voice_scenario_garbage_gar_digger_leader_meet_greet_3">
-		<text>My best respects to an honest man.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_garbage_gar_digger_leader_meet_bye_1">
-		<text>Have a pleasant journey!</text>
-	</string>
-	<string id="cc_characters_voice_scenario_garbage_gar_digger_leader_meet_bye_2">
-		<text>Farewell, brother.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_garbage_gar_digger_leader_meet_bye_3">
-		<text>Take care, pal!</text>
-	</string>
-	<!-- Sounds by actor_snds -->
-	<!-- Sounds by obj_snds -->
-	<!-- AGROPROM -->
-	<!-- Sounds by npc_snds -->
-	<string id="cc_characters_voice_scenario_marsh_bloodsucker_fear_1">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_marsh_bloodsucker_fear_2">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_marsh_bloodsucker_fear_3">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_marsh_bloodsucker_fear_fire_1">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_marsh_bloodsucker_fear_fire_2">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_marsh_bloodsucker_squad_fear_1">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_marsh_bloodsucker_squad_fear_2">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_marsh_bloodsucker_squad_fear_3">
-		<text>English Subtitles.</text>
+	<string id="cc_characters_voice_scenario_agroprom_agr_duty_barman_meet_bye_3">
+		<text>Don't forget old Kolobok! Stop by some time!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_agroprom_agr_duty_leader_meet_1">
 		<text>What you need, Merc?</text>
@@ -379,24 +36,6 @@
 	</string>
 	<string id="cc_characters_voice_scenario_agroprom_agr_duty_leader_meet_bye_3">
 		<text>Take care.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_agroprom_agr_duty_barman_meet_1">
-		<text>What tickles your fancy, earning some coin or booze to spend it on?</text>
-	</string>
-	<string id="cc_characters_voice_scenario_agroprom_agr_duty_barman_meet_2">
-		<text>Welcome to the best bar in the whole zone!</text>
-	</string>
-	<string id="cc_characters_voice_scenario_agroprom_agr_duty_barman_meet_3">
-		<text>Let me patch you up, stalker.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_agroprom_agr_duty_barman_meet_bye_1">
-		<text>Come by again to continue our conversation.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_agroprom_agr_duty_barman_meet_bye_2">
-		<text>If you hear something interesting, come keep me company.</text>
-	</string>
-	<string id="cc_characters_voice_scenario_agroprom_agr_duty_barman_meet_bye_3">
-		<text>Don't forget old Kolobok! Stop by some time!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_agroprom_agr_duty_trader_meet_1">
 		<text>Ugh, not a moment's peace! I'm coming, damn you!</text>
@@ -452,45 +91,76 @@
 	<string id="cc_characters_voice_scenario_agroprom_agr_duty_zooman_meet_bye_3">
 		<text>My zoo is always open to visitors.</text>
 	</string>
-	<!-- Sounds by actor_snds -->
-	<!-- Sounds by obj_snds -->
-	<!-- DARKVALLEY -->
-	<!-- Sounds by npc_snds -->
-	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_leader_meet_1">
-		<text>Howdy, partner!</text>
+	<string id="characters_voice_scenario_agroprom_agr_main_hole_actor_arrive">
+		<text>English Subtitles.</text>
 	</string>
-	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_leader_meet_2">
-		<text>Welcome to my humble abode!</text>
+	<string id="cc_characters_voice_scenario_agroprom_agr_secret_trader_meet_1">
+		<text>English Subtitles.</text>
 	</string>
-	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_leader_meet_3">
-		<text>Come in! Come in, stalker!</text>
+	<string id="cc_characters_voice_scenario_agroprom_agr_secret_trader_meet_bye_1">
+		<text>English Subtitles.</text>
 	</string>
-	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_leader_meet_bye_1">
-		<text>All right, enough talking, let's get to work.</text>
+	<string id="characters_voice_scenario_agroprom_bloodsucker_comander_to_squad_1">
+		<text>English Subtitles.</text>
 	</string>
-	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_leader_meet_bye_2">
-		<text>Good luck. Keep me abreast of any new information.</text>
+	<string id="characters_voice_scenario_agroprom_bloodsucker_comander_to_squad_2">
+		<text>English Subtitles.</text>
 	</string>
-	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_leader_meet_bye_3">
-		<text>Good luck! Come back anytime!</text>
+	<string id="characters_voice_scenario_agroprom_bloodsucker_fear_1">
+		<text>English Subtitles.</text>
 	</string>
-	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_comendant_meet_1">
-		<text>Who is it again? I ain't got time for this, you hear?</text>
+	<string id="characters_voice_scenario_agroprom_bloodsucker_fear_2">
+		<text>English Subtitles.</text>
 	</string>
-	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_comendant_meet_2">
-		<text>What's this, your backyard? Who let you in?</text>
+	<string id="characters_voice_scenario_agroprom_bloodsucker_fear_3">
+		<text>English Subtitles.</text>
 	</string>
-	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_comendant_meet_3">
-		<text>Me again? Man, what a lousy day!</text>
+	<string id="characters_voice_scenario_agroprom_bloodsucker_fear_after_1">
+		<text>English Subtitles.</text>
 	</string>
-	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_comendant_meet_bye_1">
-		<text>Too many bombs around here.</text>
+	<string id="characters_voice_scenario_agroprom_bloodsucker_fear_after_2">
+		<text>English Subtitles.</text>
 	</string>
-	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_comendant_meet_bye_2">
-		<text>And quit bothering me over nothing! I'm busy!</text>
+	<string id="characters_voice_scenario_agroprom_bloodsucker_fear_after_3">
+		<text>English Subtitles.</text>
 	</string>
-	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_comendant_meet_bye_3">
-		<text>You had better go monster hunting instead of distracting important people.</text>
+	<string id="characters_voice_scenario_agroprom_bloodsucker_fear_after_4">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_bloodsucker_fear_after_5">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_bloodsucker_fear_after_6">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_bloodsucker_fear_fire_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_bloodsucker_fear_fire_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_bloodsucker_squad_fear_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_bloodsucker_squad_fear_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_bloodsucker_squad_fear_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_underground_agru_radio">
+		<text>%c[default]Guys, this is Strelok. I didn't expect Doc to fix me up so fast. I heard rumors that someone has learned of our success and is seeking to contact us. I have a bad feeling about this. I fear we may need to hurry up with our next visit to the center.
+			\n%c[ui_8]Hey Strelok, glad to see you alive. Fang and I found all the parts we needed and put together two decoders. We left them both in a stash near the Scorcher. We'll pick them up when we head for the center.
+			\n%c[default]Ghost, that's great news. Our plan is as follows. We can't make it through the underground, so our only option is to go past the Scorcher. I'm on my way to Sakharov to pick up a device that will help us get through the Scorcher in one piece. Wait for me at the military warehouses.</text>
+	</string>
+	<string id="characters_voice_scenario_agroprom_underground_agru_waterfall">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_antenna_poterya_controlya">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_ambush_end">
+		<text>English Subtitles.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_barmen_meet_1">
 		<text>Yo bro, I'll be with you in a sec.</text>
@@ -510,23 +180,23 @@
 	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_barmen_meet_bye_3">
 		<text>Peace out, dude! Too bad we didn't roll a joint together.</text>
 	</string>
-	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_trader_meet_1">
-		<text>Wait a second, fella! I'll be right there!</text>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_comendant_meet_1">
+		<text>Who is it again? I ain't got time for this, you hear?</text>
 	</string>
-	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_trader_meet_2">
-		<text>Come, come, let me teach you haggling 101!</text>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_comendant_meet_2">
+		<text>What's this, your backyard? Who let you in?</text>
 	</string>
-	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_trader_meet_3">
-		<text>Alrighty, show me your harvest!</text>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_comendant_meet_3">
+		<text>Me again? Man, what a lousy day!</text>
 	</string>
-	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_trader_meet_bye_1">
-		<text>BAM BAM TAKE YOU MERCENARY!</text>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_comendant_meet_bye_1">
+		<text>Too many bombs around here.</text>
 	</string>
-	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_trader_meet_bye_2">
-		<text>Way to offload your crap on me! I'll know better next time!</text>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_comendant_meet_bye_2">
+		<text>And quit bothering me over nothing! I'm busy!</text>
 	</string>
-	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_trader_meet_bye_3">
-		<text>Mercantilism's Mercantilism!</text>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_comendant_meet_bye_3">
+		<text>You had better go monster hunting instead of distracting important people.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_fixer_meet_1">
 		<text>Howdy-doo, Mr. Stalker!</text>
@@ -546,14 +216,24 @@
 	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_fixer_meet_bye_3">
 		<text>Is it me, or are everyone's hands growing out of their asses? Nah, it's not me.</text>
 	</string>
-	<!-- Sounds by actor_snds -->
-	<string id="characters_voice_scenario_darkvalley_val_killer_trep">
-		<text>Shit man, way to screw up! What a rotten son of a bitch that commandant!
-		\nAll that horse shit he gave us about how the outpost was out of ammo!
-		\nThose freedom bastards wounded two of our boys!
-		\n%c[ui_8]Enough yapping! Let's cover up our tracks and get out of here!</text>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_leader_meet_1">
+		<text>Howdy, partner!</text>
 	</string>
-	<!-- Sounds by obj_snds -->
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_leader_meet_2">
+		<text>Welcome to my humble abode!</text>
+	</string>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_leader_meet_3">
+		<text>Come in! Come in, stalker!</text>
+	</string>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_leader_meet_bye_1">
+		<text>All right, enough talking, let's get to work.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_leader_meet_bye_2">
+		<text>Good luck. Keep me abreast of any new information.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_leader_meet_bye_3">
+		<text>Good luck! Come back anytime!</text>
+	</string>
 	<string id="characters_voice_scenario_darkvalley_val_freedom_megafon_rugan_1">
 		<text>Yo, Ashot, are you gonna bring that over here or what? That will be 20 dollars! You cheapskate! Alright, get them from the commandant. Come again? So how 'bout it, Ashot? You want it, you get it, okay? Move your ass! You're a real jerk, you know that? You're just sitting there, doing nothing all day! Hey, you go suck my- Cut the bullshit, you bozos! You're making the whole base sound like a used car dealership!</text>
 	</string>
@@ -563,17 +243,864 @@
 	<string id="characters_voice_scenario_darkvalley_val_freedom_megafon_rugan_3">
 		<text>Hey Yar! Yup? Look what I got in here! What, you got in there, Ashot? Come here and see! You got nothing that would impress even a little girl! Eh, no, you come over. I've got something to show you, or should I stick it out for you to see? I no have a microscope! Have you both lost your freaking minds!? What is this a dick measuring contest? Shut the hell up now!</text>
 	</string>
-	<!-- AGROPROM_UNDERGROUND -->
-	<!-- Sounds by npc_snds -->
-	<!-- Sounds by actor_snds -->
-	<string id="characters_voice_scenario_agroprom_underground_agru_radio">
-		<text>%c[default]Guys, this is Strelok. I didn't expect Doc to fix me up so fast. I heard rumors that someone has learned of our success and is seeking to contact us. I have a bad feeling about this. I fear we may need to hurry up with our next visit to the center.
-		\n%c[ui_8]Hey Strelok, glad to see you alive. Fang and I found all the parts we needed and put together two decoders. We left them both in a stash near the Scorcher. We'll pick them up when we head for the center.
-		\n%c[default]Ghost, that's great news. Our plan is as follows. We can't make it through the underground, so our only option is to go past the Scorcher. I'm on my way to Sakharov to pick up a device that will help us get through the Scorcher in one piece. Wait for me at the military warehouses.</text>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_trader_meet_1">
+		<text>Wait a second, fella! I'll be right there!</text>
 	</string>
-	<!-- Sounds by obj_snds -->
-	<!-- YANTAR -->
-	<!-- Sounds by npc_snds -->
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_trader_meet_2">
+		<text>Come, come, let me teach you haggling 101!</text>
+	</string>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_trader_meet_3">
+		<text>Alrighty, show me your harvest!</text>
+	</string>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_trader_meet_bye_1">
+		<text>BAM BAM TAKE YOU MERCENARY!</text>
+	</string>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_trader_meet_bye_2">
+		<text>Way to offload your crap on me! I'll know better next time!</text>
+	</string>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_trader_meet_bye_3">
+		<text>Mercantilism's Mercantilism!</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_killer_trep">
+		<text>Shit man, way to screw up! What a rotten son of a bitch that commandant!
+			\nAll that horse shit he gave us about how the outpost was out of ammo!
+			\nThose freedom bastards wounded two of our boys!
+			\n%c[ui_8]Enough yapping! Let's cover up our tracks and get out of here!</text>
+	</string>
+	<string id="characters_voice_scenario_escape_comandir_megafon_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_comandir_megafon_10">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_comandir_megafon_11">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_comandir_megafon_12">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_comandir_megafon_13">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_comandir_megafon_14">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_comandir_megafon_15">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_comandir_megafon_16">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_comandir_megafon_17">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_comandir_megafon_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_comandir_megafon_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_comandir_megafon_4">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_comandir_megafon_5">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_comandir_megafon_6">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_comandir_megafon_7">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_comandir_megafon_8">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_comandir_megafon_9">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_driver_talk_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_driver_talk_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_driver_talk_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_railroadpost_no_1_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_railroadpost_no_2_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_railroadpost_no_3_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_railroadpost_no_pda_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_railroadpost_no_pda_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_railroadpost_no_pda_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_railroadpost_yes_1_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_railroadpost_yes_2_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_railroadpost_yes_3_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_railroadpost_yes_pda_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_railroadpost_yes_pda_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_railroadpost_yes_pda_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_stalker_leader_meet_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_stalker_leader_meet_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_stalker_leader_meet_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_stalker_leader_meet_bye_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_stalker_leader_meet_bye_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_stalker_leader_meet_bye_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_mil_target_detected">
+		<text>Alert! Stalker detected! Open fire!</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_mil_target_lost">
+		<text>Target lost! Officer, take your men and clear the sector!</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_military_prisoner_meet_1">
+		<text>What you staring at? This ain't no zoo!</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_military_prisoner_meet_2">
+		<text>What's so interesting, huh? Friggin' idiots.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_military_prisoner_meet_3">
+		<text>Come, everyone, and rejoice, Khaletskiy's in a cage!</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_military_prisoner_meet_bye_1">
+		<text>Get lost and stay lost, Merc!</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_military_prisoner_meet_bye_2">
+		<text>Good riddance.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_military_prisoner_meet_bye_3">
+		<text>Don't stop on your way out the door, and keep going till you hit an anomaly.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_stalker_mechanic_meet_1">
+		<text>Got something that needs fixin'?</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_stalker_mechanic_meet_2">
+		<text>You wanna upgrade something or patch it up?</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_stalker_mechanic_meet_3">
+		<text>What can I do for you?</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_stalker_mechanic_meet_bye_1">
+		<text>If you need anything else, come by.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_stalker_mechanic_meet_bye_2">
+		<text>Sorry if I wasn't much help.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_stalker_mechanic_meet_bye_3">
+		<text>If you find some more upgrade parts, get them over here and we'll see what we can do.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_stalker_trader_meet_1">
+		<text>I'm coming, I'm coming.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_stalker_trader_meet_2">
+		<text>What can I do you for?</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_stalker_trader_meet_3">
+		<text>Got something to sell?</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_stalker_trader_meet_bye_1">
+		<text>Sorry if I don't have what you're looking for.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_stalker_trader_meet_bye_2">
+		<text>Come back later, I might get a new shipment.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_stalker_trader_meet_bye_3">
+		<text>Nice doing business with an honest stalker.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_greet_1">
+		<text>Got anything good?</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_greet_2">
+		<text>How's it going?</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_greet_3">
+		<text>Well, hello there.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_greet_4">
+		<text>What you got in there?</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_wait_1">
+		<text>Don't just stand there, eh?</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_wait_2">
+		<text>Come on, tell me what you got for me!</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_wait_3">
+		<text>Relax, don't be shy, what brings you here?</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_wait_4">
+		<text>Hello, anyone home?</text>
+	</string>
+	<string id="characters_voice_scenario_escape_megafon_1">
+		<text>Attention! You're approaching the secured perimeter of an ecological disaster zone! Illicit crossing of the perimeter is a criminal act!</text>
+	</string>
+	<string id="characters_voice_scenario_escape_megafon_2">
+		<text>Any attempt to penetrate the secured zone will be punished by any means necessary! Patrols have the right to shoot on sight!</text>
+	</string>
+	<string id="characters_voice_scenario_escape_megafon_3">
+		<text>The Zone poses mortal danger! We're here to protect you from the Zone, not the Zone from you. Do not jeopardize your life! Do not try to penetrate into the secured area!</text>
+	</string>
+	<string id="characters_voice_scenario_escape_megafon_4">
+		<text>The Security Service of Ukraine is calling all right minded and loyal citizens to collaborate with the authorities. Report all known cases of stalking! Do not let the looters hide behind your backs! They bring radioactive unidentified items from the Zone that are highly dangerous for human health and life. Only with your help can we eliminate this hideous phenomenon! Do not put your lifes and the lifes of your families at risk for the sake of dubious profit!</text>
+	</string>
+	<string id="characters_voice_scenario_escape_megafon_alarm_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_megafon_alarm_10">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_megafon_alarm_11">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_megafon_alarm_12">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_megafon_alarm_13">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_megafon_alarm_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_megafon_alarm_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_megafon_alarm_4">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_megafon_alarm_5">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_megafon_alarm_6">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_megafon_alarm_7">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_megafon_alarm_8">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_megafon_alarm_9">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_conc_camp_blockpost_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_leader_kill_digger_traitor_call_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_leader_kill_digger_traitor_done_a_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_leader_kill_digger_traitor_done_b_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_leader_kill_digger_traitor_done_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_leader_kill_smuggler_done_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_barman_meet_bye_1">
+		<text>If the going gets tough, pay me a visit.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_barman_meet_bye_2">
+		<text>Keep our business hush hush, and you'll live longer.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_barman_meet_bye_3">
+		<text>If you want advice, drop in anytime.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_barman_meet_greet_1">
+		<text>Looking for someone?</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_barman_meet_greet_2">
+		<text>If your dumbass is looking for adventure, this is where we deal them out.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_barman_meet_greet_3">
+		<text>Looking for a tip or just some booze?</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_bookmaker_meet_bye_1">
+		<text>I like it when feathers fill the air!</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_bookmaker_meet_bye_2">
+		<text>I like it when feathers fill the air!</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_bookmaker_meet_bye_3">
+		<text>Butchering some varmint, now that's what I call fun!</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_bookmaker_meet_greet_1">
+		<text>Let's put some holes in those birdies, huh?</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_bookmaker_meet_greet_2">
+		<text>Something tells me a couple of those crows are going down.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_bookmaker_meet_greet_3">
+		<text>Come again, brother! Shoot some more!</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_leader_meet_bye_a_1">
+		<text>That was time well spent.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_leader_meet_bye_a_2">
+		<text>Thanks a lot and have a nice day!</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_leader_meet_bye_b_1">
+		<text>Pop in my crib if you need something.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_leader_meet_bye_b_2">
+		<text>Something new comes up you holler at me.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_leader_meet_greet_a_1">
+		<text>Say what you got to say or get the hell out.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_leader_meet_greet_a_2">
+		<text>Who is this pretty boy we got here?</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_leader_meet_greet_b_1">
+		<text>And to what do we owe this honor?</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_man_gone_1_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_man_gone_2_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_man_gone_3_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_man_gone_pda_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_man_gone_pda_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_man_gone_pda_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_tech_meet_bye_1">
+		<text>I say it's time to catch a buzz. Senka, get up, you bum!</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_tech_meet_bye_2">
+		<text>Thanks a bunch, yeah! Pour it Senka!</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_tech_meet_bye_3">
+		<text>Leaving already? How about one for the road?</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_tech_meet_greet_1">
+		<text>You got the papers ready? All those excise labels and stuff got to be just right.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_tech_meet_greet_2">
+		<text>Quit shouting, my head is killing me!</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_tech_meet_greet_3">
+		<text>Senka and I are always glad to see our customers.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_digger_captive_leader_reward_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_digger_leader_ambush_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_digger_leader_looked_at_dead_camp_a">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_digger_leader_looked_at_dead_camp_b">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_digger_leader_traitor_dead_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_digger_leader_traitor_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_digger_messenger_thanks_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_digger_quester_looked_at_dead_camp">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_digger_traitor_attack_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_pay_1_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_pay_2_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_pay_3_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_pay_4_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_pay_pda_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_pay_pda_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_pay_pda_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_pay_pda_4">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_reject_1_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_reject_2_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_reject_3_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_reject_pda_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_reject_pda_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_reject_pda_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_come_here_1_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_come_here_2_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_come_here_3_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_come_here_pda_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_come_here_pda_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_come_here_pda_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_kill_actor_1_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_kill_actor_2_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_kill_actor_pda_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_kill_actor_pda_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_return_1_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_return_2_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_return_3_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_return_pda_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_return_pda_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_robbery_scene_return_pda_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_garbage_gar_stalker_group_talk">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_generator_actor_no_time">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_generator_generator">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_generator_uno_commander_defence">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_generator_uno_commander_forward">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_generator_uno_commander_story_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_generator_uno_commander_story_1b">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_generator_uno_commander_story_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_generator_uno_commander_surge">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_generator_uno_kill_snork">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_generator_uno_scientist_passage">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_generator_uno_scientist_snork_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_generator_uno_scientist_snork_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_generator_uno_scientist_snork_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_generator_uno_surprise">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_generator_uno_target_reached">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_generator_uno_target_reply">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_expl_door">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_hospital_gunfire_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_hospital_hospital_sniper_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_reconnaissance_squad_electricity_off_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_report1_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop2_leader_to_actor6_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_bloodsucker_comander_to_squad_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_bloodsucker_comander_to_squad_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_trader_meet_bye_1">
+		<text>No loot, the point is moot.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_trader_meet_bye_2">
+		<text>Tell me, where do you dig up these things?</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_trader_meet_bye_3">
+		<text>Have a nice doing business with you!</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_trader_meet_greet_1">
+		<text>I'll be right with you!</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_trader_meet_greet_2">
+		<text>What you carrying over there, son? Show me!</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_trader_meet_greet_3">
+		<text>Got some loot? That's a beaut.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_digger_leader_meet_bye_1">
+		<text>Have a pleasant journey!</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_digger_leader_meet_bye_2">
+		<text>Farewell, brother.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_digger_leader_meet_bye_3">
+		<text>Take care, pal!</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_digger_leader_meet_greet_1">
+		<text>What up, brother?</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_digger_leader_meet_greet_2">
+		<text>Hey, Merc!</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_digger_leader_meet_greet_3">
+		<text>My best respects to an honest man.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_bloodsucker_fear_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_bloodsucker_fear_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_bloodsucker_fear_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_bloodsucker_fear_after_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_bloodsucker_fear_after_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_bloodsucker_fear_after_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_bloodsucker_fear_after_4">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_bloodsucker_fear_after_5">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_bloodsucker_fear_after_6">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_bloodsucker_fear_fire_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_bloodsucker_fear_fire_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_bloodsucker_squad_fear_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_bloodsucker_squad_fear_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_bloodsucker_squad_fear_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_hide_in_tower_0_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_barman_meet_bye_1">
+		<text>Pop in anytime you feel like chatting.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_barman_meet_bye_2">
+		<text>Well, next time you're at the swamps, don't be a stranger.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_barman_meet_bye_3">
+		<text>Stop by for a chat anytime. This place is so boring.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_barman_meet_greet_1">
+		<text>I see you. Just a minute.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_barman_meet_greet_2">
+		<text>Welcome back from the Afterworld!</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_barman_meet_greet_3">
+		<text>Look who we got visiting our swamps! You sure are a whiff of fresh air!</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_doctor_meet_bye_1">
+		<text>If you need me, you know where to find me.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_doctor_meet_bye_2">
+		<text>Hmm, if that is all, I better get back to my work.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_doctor_meet_bye_3">
+		<text>Hopefully my answers will be of help to us all.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_doctor_meet_greet_1">
+		<text>Can I help you?</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_doctor_meet_greet_2">
+		<text>Oh, I didn't notice you come in.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_doctor_meet_greet_3">
+		<text>Ah, it's you!</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_leader_meet_bye_1">
+		<text>If you learn any news, come back and share it with me.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_leader_meet_bye_2">
+		<text>See you.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_leader_meet_bye_3">
+		<text>Stay in touch, we may need your help soon.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_leader_meet_bye_4">
+		<text>Come see me if you learn something important.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_leader_meet_greet_1">
+		<text>Something on your mind, Merc?</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_leader_meet_greet_2">
+		<text>Glad to see you. Got any new questions for me?</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_leader_meet_greet_3">
+		<text>What brings you here, mercenary?</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_leader_meet_greet_4">
+		<text>Speak of the devil, I was just thinking of you.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_leader_to_trader_0_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_marsh_mar_csky_trader_reply_0_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_enter_second">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_enter_wait_actor_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_enter_wait_actor_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_enter_wait_actor_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_freedom_com_finish_task_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_freedom_com_radio_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_freedom_com_task_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_hires_in_bubble_thanks_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_rnd_radio_4">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_rnd_radio_5">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_stalker_radio_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_military_mil_stalker_radio_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_polygon_polygon_complete">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_polygon_polygon_fight_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_polygon_polygon_fight_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_polygon_polygon_fight_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_polygon_polygon_fight_4">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_polygon_polygon_fight_5">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_polygon_polygon_intro">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_polygon_polygon_win_fight">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_finished_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_spawn_bandits_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_spawn_bandits_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_bridge_spawn_bandits_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_tech_meet_bye_1">
+		<text>Remember, to be a good shooter, get your gun talking at the right time.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_tech_meet_bye_2">
+		<text>You get anything else to fix, come to me for help.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_tech_meet_bye_3">
+		<text>Well, good luck!</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_tech_meet_greet_1">
+		<text>I'll be there in a moment.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_tech_meet_greet_2">
+		<text>Need something upgraded or repaired? We got enough duct tape to patch the whole zone up if need be!</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_tech_meet_greet_3">
+		<text>I repair faults in hardware, not in its owner's arms.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_trader_meet_bye_1">
+		<text>Good luck to you.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_trader_meet_bye_2">
+		<text>Have a safe trip!</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_trader_meet_bye_3">
+		<text>Drop in next time you're in our neck of the woods.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_trader_meet_greet_1">
+		<text>A visitor? I'll be right there.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_trader_meet_greet_2">
+		<text>Hello there.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_trader_meet_greet_3">
+		<text>You're with us again, glad to see you.</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_forester_hello_bye_0">
+		<text>Have a safe trip, son.</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_forester_hello_bye_1">
+		<text>Don't forget an old man!</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_forester_hello_bye_2">
+		<text>Hope to see you again!</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_forester_meet_hello_0">
+		<text>A living soul? Well, hello!</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_forester_meet_hello_1">
+		<text>What brings you to my forest, young man?</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_forester_meet_hello_2">
+		<text>Are you here on business or just taking a hike?</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_give_orders">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_give_orders_1_pda">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_yantar_yan_give_orders_2_pda">
+		<text>English Subtitles.</text>
+	</string>
 	<string id="cc_characters_voice_scenario_yantar_yan_sakharov_meet_1">
 		<text>How are you, young man?</text>
 	</string>
@@ -592,30 +1119,4 @@
 	<string id="cc_characters_voice_scenario_yantar_yan_sakharov_meet_bye_3">
 		<text>Please, come back sometime.</text>
 	</string>
-	<!-- Sounds by actor_snds -->
-	<!-- Sounds by obj_snds -->
-	<!-- RED_FOREST -->
-	<!-- Sounds by npc_snds -->
-	<!-- Sounds by actor_snds -->
-	<!-- Sounds by obj_snds -->
-	<!-- MILITARY -->
-	<!-- Sounds by npc_snds -->
-	<!-- Sounds by actor_snds -->
-	<!-- Sounds by obj_snds -->
-	<!-- LIMANSK -->
-	<!-- Sounds by npc_snds -->
-	<!-- Sounds by actor_snds -->
-	<!-- Sounds by obj_snds -->
-	<!-- HOSPITAL -->
-	<!-- Sounds by npc_snds -->
-	<!-- Sounds by actor_snds -->
-	<!-- Sounds by obj_snds -->
-	<!-- STANCIA -->
-	<!-- Sounds by npc_snds -->
-	<!-- Sounds by actor_snds -->
-	<!-- Sounds by obj_snds -->
-	<!-- PLACEHOLDER -->
-	<!-- Sounds by npc_snds -->
-	<!-- Sounds by actor_snds -->
-	<!-- Sounds by obj_snds -->
 </string_table>
