@@ -69,34 +69,34 @@ tips_icons =
 mob_snds =
 {
 	-- Sid
-	characters_voice_scenario_escape_esc_trader_greet_first	= {5},
-	characters_voice_scenario_escape_esc_trader_greet_habar	= {5},
-	characters_voice_scenario_escape_esc_trader_habar_greet_1	= {5},
-	characters_voice_scenario_escape_esc_trader_habar_greet_2	= {5},
-	characters_voice_scenario_escape_esc_trader_habar_greet_3	= {5},
-	characters_voice_scenario_escape_esc_trader_greet_1	= {5},
-	characters_voice_scenario_escape_esc_trader_greet_2	= {5},
-	characters_voice_scenario_escape_esc_trader_greet_3	= {5},
-	characters_voice_scenario_escape_esc_trader_greet_4	= {5},
-	characters_voice_scenario_escape_esc_trader_bye_give_habar	= {5},
-	characters_voice_scenario_escape_esc_trader_bye_habar_1	= {5},
-	characters_voice_scenario_escape_esc_trader_bye_habar_2	= {5},
-	characters_voice_scenario_escape_esc_trader_bye_habar_3	= {5},
-	characters_voice_scenario_escape_esc_trader_bye_1	= {5},
-	characters_voice_scenario_escape_esc_trader_bye_2	= {5},
-	characters_voice_scenario_escape_esc_trader_bye_3	= {5},
-	characters_voice_scenario_escape_esc_trader_wait_1	= {5},
-	characters_voice_scenario_escape_esc_trader_wait_2	= {5},
-	characters_voice_scenario_escape_esc_trader_wait_3	= {5},
-	characters_voice_scenario_escape_esc_trader_wait_4	= {5},
+	characters_voice_scenario_escape_esc_trader_greet_first	= {3.3},
+	characters_voice_scenario_escape_esc_trader_greet_habar	= {4.2},
+	characters_voice_scenario_escape_esc_trader_habar_greet_1	= {2.9},
+	characters_voice_scenario_escape_esc_trader_habar_greet_2	= {1.4},
+	characters_voice_scenario_escape_esc_trader_habar_greet_3	= {2},
+	characters_voice_scenario_escape_esc_trader_greet_1	= {1.5},
+	characters_voice_scenario_escape_esc_trader_greet_2	= {1.2},
+	characters_voice_scenario_escape_esc_trader_greet_3	= {2},
+	characters_voice_scenario_escape_esc_trader_greet_4	= {1.3},
+	characters_voice_scenario_escape_esc_trader_bye_give_habar	= {2.9},
+	characters_voice_scenario_escape_esc_trader_bye_habar_1	= {2.2},
+	characters_voice_scenario_escape_esc_trader_bye_habar_2	= {2.1},
+	characters_voice_scenario_escape_esc_trader_bye_habar_3	= {2.5},
+	characters_voice_scenario_escape_esc_trader_bye_1	= {0.9},
+	characters_voice_scenario_escape_esc_trader_bye_2	= {2.7},
+	characters_voice_scenario_escape_esc_trader_bye_3	= {1.4},
+	characters_voice_scenario_escape_esc_trader_wait_1	= {2.2},
+	characters_voice_scenario_escape_esc_trader_wait_2	= {2.7},
+	characters_voice_scenario_escape_esc_trader_wait_3	= {3.8},
+	characters_voice_scenario_escape_esc_trader_wait_4	= {2.2},
 	-- Forester
-	characters_voice_scenario_red_forest_red_forester_greet_1	= {5},
-	characters_voice_scenario_red_forest_red_forester_meet_hello_0	= {5},
-	characters_voice_scenario_red_forest_red_forester_meet_hello_1	= {5},
-	characters_voice_scenario_red_forest_red_forester_meet_hello_2	= {5},
-	characters_voice_scenario_red_forest_red_forester_hello_bye_0	= {5},
-	characters_voice_scenario_red_forest_red_forester_hello_bye_1	= {5},
-	characters_voice_scenario_red_forest_red_forester_hello_bye_2	= {5},
+	characters_voice_scenario_red_forest_red_forester_greet_1	= {3.1},
+	characters_voice_scenario_red_forest_red_forester_meet_hello_0	= {3.4},
+	characters_voice_scenario_red_forest_red_forester_meet_hello_1	= {2.6},
+	characters_voice_scenario_red_forest_red_forester_meet_hello_2	= {3.1},
+	characters_voice_scenario_red_forest_red_forester_hello_bye_0	= {2.1},
+	characters_voice_scenario_red_forest_red_forester_hello_bye_1	= {1.9},
+	characters_voice_scenario_red_forest_red_forester_hello_bye_2	= {1.8},
 }
 
 --id																														=	{showtime}
@@ -370,7 +370,7 @@ function cc_display_subs(cc_id, color, showtime)
 	elseif db.cc_npc == nil then
 		read_cc_ini()
 		if db.cc_npc ~= nil then
-			cc_display_subs(cc_id, showtime, color, sender)
+			cc_display_subs(cc_id, color, showtime)
 		end
 	end
 end
