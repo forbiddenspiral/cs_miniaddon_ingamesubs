@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<!-- UI STRINGS FOR SUBS -->
+<string_table>
+	<!-- Sounds by mob_snds -->
+	<string id="characters_voice_scenario_escape_esc_trader_greet_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_greet_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_greet_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_greet_4">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_wait_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_wait_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_wait_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_trader_wait_4">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_forester_meet_hello_0">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_forester_meet_hello_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_forester_meet_hello_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_forester_hello_bye_0">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_forester_hello_bye_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_red_forest_red_forester_hello_bye_2">
+		<text>English Subtitles.</text>
+	</string>
+	<!-- MARSH -->
+	<!-- Sounds by npc_snds -->
+  <string id="cc_characters_voice_scenario_marsh_mar_csky_leader_meet_greet_1">
+		<text>English Subtitles.</text>
+	</string>
+  <string id="cc_characters_voice_scenario_marsh_mar_csky_leader_meet_greet_2">
+		<text>English Subtitles.</text>
+	</string>
+  <string id="cc_characters_voice_scenario_marsh_mar_csky_leader_meet_greet_3">
+		<text>English Subtitles.</text>
+	</string>
+  <string id="cc_characters_voice_scenario_marsh_mar_csky_leader_meet_greet_4">
+		<text>English Subtitles.</text>
+	</string>
+  <string id="cc_characters_voice_scenario_marsh_mar_csky_leader_meet_bye_1">
+		<text>English Subtitles.</text>
+	</string>
+  <string id="cc_characters_voice_scenario_marsh_mar_csky_leader_meet_bye_2">
+		<text>English Subtitles.</text>
+	</string>
+  <string id="cc_characters_voice_scenario_marsh_mar_csky_leader_meet_bye_3">
+		<text>English Subtitles.</text>
+	</string>
+  <string id="cc_characters_voice_scenario_marsh_mar_csky_leader_meet_bye_4">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_doctor_meet_greet_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_doctor_meet_greet_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_doctor_meet_greet_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_doctor_meet_bye_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_doctor_meet_bye_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_doctor_meet_bye_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_barman_meet_greet_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_barman_meet_greet_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_barman_meet_greet_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_barman_meet_bye_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_barman_meet_bye_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_barman_meet_bye_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_trader_meet_greet_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_trader_meet_greet_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_trader_meet_greet_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_trader_meet_bye_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_trader_meet_bye_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_trader_meet_bye_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_tech_meet_greet_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_tech_meet_greet_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_tech_meet_greet_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_tech_meet_bye_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_tech_meet_bye_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_mar_csky_tech_meet_bye_3">
+		<text>English Subtitles.</text>
+	</string>
+	<!-- Sounds by actor_snds -->
+	<!-- Sounds by obj_snds -->
+
+	<!-- ESCAPE -->
+	<!-- Sounds by npc_snds -->
+	<string id="cc_characters_voice_scenario_escape_esc_stalker_trader_meet_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_stalker_trader_meet_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_stalker_trader_meet_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_stalker_trader_meet_bye_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_stalker_trader_meet_bye_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_stalker_trader_meet_bye_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_stalker_mechanic_meet_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_stalker_mechanic_meet_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_stalker_mechanic_meet_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_stalker_mechanic_meet_bye_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_stalker_mechanic_meet_bye_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_stalker_mechanic_meet_bye_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_military_prisoner_meet_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_military_prisoner_meet_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_military_prisoner_meet_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_military_prisoner_meet_bye_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_military_prisoner_meet_bye_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_escape_esc_military_prisoner_meet_bye_3">
+		<text>English Subtitles.</text>
+	</string>
+	<!-- Sounds by actor_snds -->
+	<!-- Sounds by obj_snds -->
+	<string id="characters_voice_scenario_escape_megafon_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_megafon_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_megafon_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_megafon_4">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_megafon_4">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_mil_target_detected">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="characters_voice_scenario_escape_esc_mil_target_lost">
+		<text>English Subtitles.</text>
+	</string>
+	<!-- GARBAGE -->
+	<!-- Sounds by npc_snds -->
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_leader_meet_greet_a_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_leader_meet_greet_a_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_leader_meet_greet_b_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_leader_meet_bye_a_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_leader_meet_bye_a_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_leader_meet_bye_b_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_leader_meet_bye_b_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_tech_meet_greet_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_tech_meet_greet_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_tech_meet_greet_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_tech_meet_bye_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_tech_meet_bye_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_tech_meet_bye_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_trader_meet_greet_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_trader_meet_greet_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_trader_meet_greet_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_trader_meet_bye_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_trader_meet_bye_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_trader_meet_bye_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_barman_meet_greet_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_barman_meet_greet_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_barman_meet_greet_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_barman_meet_bye_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_barman_meet_bye_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_barman_meet_bye_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_bookmaker_meet_greet_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_bookmaker_meet_greet_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_bookmaker_meet_greet_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_bookmaker_meet_bye_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_bookmaker_meet_bye_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_bandit_bookmaker_meet_bye_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_digger_leader_meet_greet_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_digger_leader_meet_greet_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_digger_leader_meet_greet_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_digger_leader_meet_bye_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_digger_leader_meet_bye_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_garbage_gar_digger_leader_meet_bye_3">
+		<text>English Subtitles.</text>
+	</string>
+	<!-- Sounds by actor_snds -->
+	<!-- Sounds by obj_snds -->
+	<!-- AGROPROM -->
+	<!-- Sounds by npc_snds -->
+	<string id="cc_characters_voice_scenario_marsh_bloodsucker_fear_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_bloodsucker_fear_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_bloodsucker_fear_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_bloodsucker_fear_fire_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_bloodsucker_fear_fire_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_bloodsucker_squad_fear_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_bloodsucker_squad_fear_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_marsh_bloodsucker_squad_fear_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_agroprom_agr_duty_leader_meet_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_agroprom_agr_duty_leader_meet_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_agroprom_agr_duty_leader_meet_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_agroprom_agr_duty_leader_meet_bye_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_agroprom_agr_duty_leader_meet_bye_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_agroprom_agr_duty_leader_meet_bye_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_agroprom_agr_duty_barman_meet_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_agroprom_agr_duty_barman_meet_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_agroprom_agr_duty_barman_meet_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_agroprom_agr_duty_barman_meet_bye_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_agroprom_agr_duty_barman_meet_bye_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_agroprom_agr_duty_barman_meet_bye_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_agroprom_agr_duty_trader_meet_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_agroprom_agr_duty_trader_meet_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_agroprom_agr_duty_trader_meet_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_agroprom_agr_duty_trader_meet_bye_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_agroprom_agr_duty_trader_meet_bye_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_agroprom_agr_duty_trader_meet_bye_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_agroprom_agr_duty_weaponmaster_meet_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_agroprom_agr_duty_weaponmaster_meet_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_agroprom_agr_duty_weaponmaster_meet_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_agroprom_agr_duty_weaponmaster_meet_bye_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_agroprom_agr_duty_weaponmaster_meet_bye_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_agroprom_agr_duty_weaponmaster_meet_bye_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_agroprom_agr_duty_zooman_meet_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_agroprom_agr_duty_zooman_meet_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_agroprom_agr_duty_zooman_meet_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_agroprom_agr_duty_zooman_meet_bye_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_agroprom_agr_duty_zooman_meet_bye_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_agroprom_agr_duty_zooman_meet_bye_3">
+		<text>English Subtitles.</text>
+	</string>
+	<!-- Sounds by actor_snds -->
+	<!-- Sounds by obj_snds -->
+	<!-- DARKVALLEY -->
+	<!-- Sounds by npc_snds -->
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_leader_meet_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_leader_meet_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_leader_meet_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_leader_meet_bye_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_leader_meet_bye_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_leader_meet_bye_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_comendant_meet_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_comendant_meet_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_comendant_meet_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_comendant_meet_bye_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_comendant_meet_bye_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_comendant_meet_bye_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_barmen_meet_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_barmen_meet_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_barmen_meet_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_barmen_meet_bye_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_barmen_meet_bye_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_barmen_meet_bye_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_trader_meet_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_trader_meet_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_trader_meet_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_trader_meet_bye_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_trader_meet_bye_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_trader_meet_bye_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_fixer_meet_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_fixer_meet_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_fixer_meet_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_fixer_meet_bye_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_fixer_meet_bye_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_fixer_meet_bye_3">
+		<text>English Subtitles.</text>
+	</string>
+	<!-- Sounds by actor_snds -->
+	<string id="characters_voice_scenario_darkvalley_val_killer_trep">
+		<text>val_killer_trep</text>
+	</string>
+	<!-- Sounds by obj_snds -->
+	<string id="characters_voice_scenario_darkvalley_val_freedom_megafon_rugan_1">
+		<text>val_freedom_megafon_rugan_1</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_megafon_rugan_2">
+		<text>val_freedom_megafon_rugan_2</text>
+	</string>
+	<string id="characters_voice_scenario_darkvalley_val_freedom_megafon_rugan_3">
+		<text>val_freedom_megafon_rugan_3</text>
+	</string>
+	<!-- Sounds by snd_paths -->
+	<!-- AGROPROM_UNDERGROUND -->
+	<!-- Sounds by npc_snds -->
+	<!-- Sounds by actor_snds -->
+	<string id="characters_voice_scenario_agroprom_underground_agru_radio">
+		<text>Strelok's PDA.</text>
+	</string>
+	<!-- Sounds by obj_snds -->
+	<!-- YANTAR -->
+	<!-- Sounds by npc_snds -->
+	<string id="cc_characters_voice_scenario_yantar_yan_sakharov_meet_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_yantar_yan_sakharov_meet_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_yantar_yan_sakharov_meet_3">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_yantar_yan_sakharov_meet_bye_1">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_yantar_yan_sakharov_meet_bye_2">
+		<text>English Subtitles.</text>
+	</string>
+	<string id="cc_characters_voice_scenario_yantar_yan_sakharov_meet_bye_3">
+		<text>English Subtitles.</text>
+	</string>
+	<!-- Sounds by actor_snds -->
+	<!-- Sounds by obj_snds -->
+	<!-- RED_FOREST -->
+	<!-- Sounds by npc_snds -->
+	<!-- Sounds by actor_snds -->
+	<!-- Sounds by obj_snds -->
+	<!-- MILITARY -->
+	<!-- Sounds by npc_snds -->
+	<!-- Sounds by actor_snds -->
+	<!-- Sounds by obj_snds -->
+	<!-- LIMANSK -->
+	<!-- Sounds by npc_snds -->
+	<!-- Sounds by actor_snds -->
+	<!-- Sounds by obj_snds -->
+	<!-- HOSPITAL -->
+	<!-- Sounds by npc_snds -->
+	<!-- Sounds by actor_snds -->
+	<!-- Sounds by obj_snds -->
+	<!-- STANCIA -->
+	<!-- Sounds by npc_snds -->
+	<!-- Sounds by actor_snds -->
+	<!-- Sounds by obj_snds -->
+	<!-- PLACEHOLDER -->
+	<!-- Sounds by npc_snds -->
+	<!-- Sounds by actor_snds -->
+	<!-- Sounds by obj_snds -->
+</string_table>

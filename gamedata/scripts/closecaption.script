@@ -1,0 +1,467 @@
+-----------------------------------------------------------
+-- Szinkronfeliratok
+-----------------------------------------------------------
+-- Keszitette: The Sweet Little 16-bit (tsl16b@freemail.hu)
+-----------------------------------------------------------
+-- forgottenspiral
+-- v0.0
+-----------------------------------------------------------
+
+--id														= texture
+tips_icons =
+{
+	bandit                        = "ui_npc_small_bandit_1",
+	csky                          = "ui_npc_small_nebo_1",
+	dolg                          = "ui_npc_small_dolg_1",
+	ecolog                        = "ui_iconsNpc_ecolog",
+	freedom                       = "ui_npc_small_freedom_1",
+	killer                        = "ui_npc_small_merc_2",
+	army                          = "ui_npc_small_soldier_2",
+	monolith                      = "ui_npc_small_monolith_1",
+	stalker                       = "ui_npc_small_neutral_1",
+	trader                        = "ui_iconsNpc_trader",
+	zombied                       = "ui_npc_small_zombied_1",
+	renegade                      = "ui_npc_small_bandit_1",
+
+	mar_csky_commander_name       = "ui_npc_small_nebo_2_face_1",
+	mar_csky_scientist_name       = "ui_npc_small_nebo_2_face_2",
+	mar_csky_tech_name            = "ui_npc_small_nebo_2_face_3",
+	mar_csky_barman               = "ui_npc_small_nebo_2_face_4",
+	escape_trader_name            = "ui_npc_small_trader_1",
+	esc_leader_stalkerbase_name   = "ui_npc_small_neutral_2_face_2",
+	esc_driver_name               = "ui_npc_small_soldier_1",
+	esc_zak_stalkerbase_name      = "ui_npc_small_soldier_2_face_1",
+	gar_bandit_leader_name        = "ui_npc_small_bandit_3_face_1",
+	gar_bandit_barman_name        = "ui_npc_small_bandit_3_face_2",
+	gar_digger_quester_name       = "ui_npc_small_neutral_2_face_1",
+	agr_duty_base_commander_name  = "ui_npc_small_dolg_2_face_1",
+	agr_weaponmaster_name         = "ui_npc_small_dolg_2_mask",
+	agr_barman_name               = "ui_npc_u_dolg_2_face_2",
+	val_freedom_leader_name       = "ui_npc_small_freedom_2_face_2",
+	val_freedom_trader_name       = "ui_npc_small_freedom_2_mask",
+	red_forester_name             = "ui_npc_small_lesnik_1",
+	yan_st_sakharov_name          = "ui_npc_small_ucheniy_1",
+
+	-- SRP additions:
+
+	val_freedom_comendant_name    = "ui_npc_small_freedom_3",
+	agr_holeman_name              = "ui_npc_small_dolg_2_mask",
+	sim_strelok_name              = "ui_npc_small_neutral_2",
+	agr_stalker_base_leader_name  = "ui_npc_small_neutral_2_mask",
+	esc_wolf_name                 = "ui_npc_small_neutral_2",
+	gar_digger_traitor_name       = "ui_npc_small_neutral_1",
+	gar_bandit_minigame_name      = "ui_npc_small_bandit_1",
+	gar_digger_messenger_man_name = "ui_npc_small_neutral_1",
+	mar_csky_barman_name          = "ui_npc_small_nebo_2_face_4",
+	mar_csky_guide_name           = "ui_npc_small_nebo_1",
+	mil_kostiuk_name              = "ui_npc_small_freedom_4",
+	mil_hog_name                  = "ui_npc_small_merc_4",
+	red_ally_leshiy_name          = "ui_npc_small_neutral_2_mask",
+	yan_st_levsha_name            = "ui_npc_small_neutral_2_mask",
+	yan_levshas_crew              = "ui_npc_small_neutral_2",
+}
+
+--id																											=	{showtime}
+mob_snds =
+{
+	-- Sid
+	characters_voice_scenario_escape_esc_trader_greet_first	= {5},
+	characters_voice_scenario_escape_esc_trader_greet_habar	= {5},
+	characters_voice_scenario_escape_esc_trader_habar_greet_1	= {5},
+	characters_voice_scenario_escape_esc_trader_habar_greet_2	= {5},
+	characters_voice_scenario_escape_esc_trader_habar_greet_3	= {5},
+	characters_voice_scenario_escape_esc_trader_greet_1	= {5},
+	characters_voice_scenario_escape_esc_trader_greet_2	= {5},
+	characters_voice_scenario_escape_esc_trader_greet_3	= {5},
+	characters_voice_scenario_escape_esc_trader_greet_4	= {5},
+	characters_voice_scenario_escape_esc_trader_bye_give_habar	= {5},
+	characters_voice_scenario_escape_esc_trader_bye_habar_1	= {5},
+	characters_voice_scenario_escape_esc_trader_bye_habar_2	= {5},
+	characters_voice_scenario_escape_esc_trader_bye_habar_3	= {5},
+	characters_voice_scenario_escape_esc_trader_bye_1	= {5},
+	characters_voice_scenario_escape_esc_trader_bye_2	= {5},
+	characters_voice_scenario_escape_esc_trader_bye_3	= {5},
+	characters_voice_scenario_escape_esc_trader_wait_1	= {5},
+	characters_voice_scenario_escape_esc_trader_wait_2	= {5},
+	characters_voice_scenario_escape_esc_trader_wait_3	= {5},
+	characters_voice_scenario_escape_esc_trader_wait_4	= {5},
+	-- Forester
+	characters_voice_scenario_red_forest_red_forester_greet_1	= {5},
+	characters_voice_scenario_red_forest_red_forester_meet_hello_0	= {5},
+	characters_voice_scenario_red_forest_red_forester_meet_hello_1	= {5},
+	characters_voice_scenario_red_forest_red_forester_meet_hello_2	= {5},
+	characters_voice_scenario_red_forest_red_forester_hello_bye_0	= {5},
+	characters_voice_scenario_red_forest_red_forester_hello_bye_1	= {5},
+	characters_voice_scenario_red_forest_red_forester_hello_bye_2	= {5},
+}
+
+--id																														=	{showtime}
+npc_snds =
+{
+	-- CS
+	characters_voice_scenario_marsh_mar_csky_leader_meet_greet_1	= {5},
+	characters_voice_scenario_marsh_mar_csky_leader_meet_greet_2	= {5},
+	characters_voice_scenario_marsh_mar_csky_leader_meet_greet_3	= {5},
+	characters_voice_scenario_marsh_mar_csky_leader_meet_greet_4	= {5},
+	characters_voice_scenario_marsh_mar_csky_leader_meet_bye_1	= {5},
+	characters_voice_scenario_marsh_mar_csky_leader_meet_bye_2	= {5},
+	characters_voice_scenario_marsh_mar_csky_leader_meet_bye_3	= {5},
+	characters_voice_scenario_marsh_mar_csky_leader_meet_bye_4	= {5},
+	characters_voice_scenario_marsh_mar_csky_doctor_meet_greet_1	= {5},
+	characters_voice_scenario_marsh_mar_csky_doctor_meet_greet_2	= {5},
+	characters_voice_scenario_marsh_mar_csky_doctor_meet_greet_3	= {5},
+	characters_voice_scenario_marsh_mar_csky_doctor_meet_bye_1	= {5},
+	characters_voice_scenario_marsh_mar_csky_doctor_meet_bye_2	= {5},
+	characters_voice_scenario_marsh_mar_csky_doctor_meet_bye_3	= {5},
+	characters_voice_scenario_marsh_mar_csky_barman_meet_greet_1	= {5},
+	characters_voice_scenario_marsh_mar_csky_barman_meet_greet_2	= {5},
+	characters_voice_scenario_marsh_mar_csky_barman_meet_greet_3	= {5},
+	characters_voice_scenario_marsh_mar_csky_barman_meet_bye_1	= {5},
+	characters_voice_scenario_marsh_mar_csky_barman_meet_bye_2	= {5},
+	characters_voice_scenario_marsh_mar_csky_barman_meet_bye_3	= {5},
+	characters_voice_scenario_marsh_mar_csky_trader_meet_greet_1	= {5},
+	characters_voice_scenario_marsh_mar_csky_trader_meet_greet_2	= {5},
+	characters_voice_scenario_marsh_mar_csky_trader_meet_greet_3	= {5},
+	characters_voice_scenario_marsh_mar_csky_trader_meet_bye_1	= {5},
+	characters_voice_scenario_marsh_mar_csky_trader_meet_bye_2	= {5},
+	characters_voice_scenario_marsh_mar_csky_trader_meet_bye_3	= {5},
+	characters_voice_scenario_marsh_mar_csky_tech_meet_greet_1	= {5},
+	characters_voice_scenario_marsh_mar_csky_tech_meet_greet_2	= {5},
+	characters_voice_scenario_marsh_mar_csky_tech_meet_greet_3	= {5},
+	characters_voice_scenario_marsh_mar_csky_tech_meet_bye_1	= {5},
+	characters_voice_scenario_marsh_mar_csky_tech_meet_bye_2	= {5},
+	characters_voice_scenario_marsh_mar_csky_tech_meet_bye_3	= {5},
+	--- Stalker
+	characters_voice_scenario_escape_esc_stalker_trader_meet_1	= {5},
+	characters_voice_scenario_escape_esc_stalker_trader_meet_2	= {5},
+	characters_voice_scenario_escape_esc_stalker_trader_meet_3	= {5},
+	characters_voice_scenario_escape_esc_stalker_trader_meet_bye_1	= {5},
+	characters_voice_scenario_escape_esc_stalker_trader_meet_bye_2	= {5},
+	characters_voice_scenario_escape_esc_stalker_trader_meet_bye_3	= {5},
+	characters_voice_scenario_escape_esc_stalker_mechanic_meet_1	= {5},
+	characters_voice_scenario_escape_esc_stalker_mechanic_meet_2	= {5},
+	characters_voice_scenario_escape_esc_stalker_mechanic_meet_3	= {5},
+	characters_voice_scenario_escape_esc_stalker_mechanic_meet_bye_1	= {5},
+	characters_voice_scenario_escape_esc_stalker_mechanic_meet_bye_2	= {5},
+	characters_voice_scenario_escape_esc_stalker_mechanic_meet_bye_3	= {5},
+	characters_voice_scenario_escape_esc_military_prisoner_meet_1	= {5},
+	characters_voice_scenario_escape_esc_military_prisoner_meet_2	= {5},
+	characters_voice_scenario_escape_esc_military_prisoner_meet_3	= {5},
+	characters_voice_scenario_escape_esc_military_prisoner_meet_bye_1	= {5},
+	characters_voice_scenario_escape_esc_military_prisoner_meet_bye_2	= {5},
+	characters_voice_scenario_escape_esc_military_prisoner_meet_bye_3	= {5},
+	--- Bandits
+	characters_voice_scenario_garbage_gar_bandit_leader_meet_greet_a_1	= {5},
+	characters_voice_scenario_garbage_gar_bandit_leader_meet_greet_a_2	= {5},
+	characters_voice_scenario_garbage_gar_bandit_leader_meet_greet_b_1	= {5},
+	characters_voice_scenario_garbage_gar_bandit_leader_meet_bye_a_1	= {5},
+	characters_voice_scenario_garbage_gar_bandit_leader_meet_bye_a_2	= {5},
+	characters_voice_scenario_garbage_gar_bandit_leader_meet_bye_b_1	= {5},
+	characters_voice_scenario_garbage_gar_bandit_leader_meet_bye_b_2	= {5},
+	characters_voice_scenario_garbage_gar_bandit_tech_meet_greet_1	= {5},
+	characters_voice_scenario_garbage_gar_bandit_tech_meet_greet_2	= {5},
+	characters_voice_scenario_garbage_gar_bandit_tech_meet_greet_3	= {5},
+	characters_voice_scenario_garbage_gar_bandit_tech_meet_bye_1	= {5},
+	characters_voice_scenario_garbage_gar_bandit_tech_meet_bye_2	= {5},
+	characters_voice_scenario_garbage_gar_bandit_tech_meet_bye_3	= {5},
+	characters_voice_scenario_garbage_gar_bandit_trader_meet_greet_1	= {5},
+	characters_voice_scenario_garbage_gar_bandit_trader_meet_greet_2	= {5},
+	characters_voice_scenario_garbage_gar_bandit_trader_meet_greet_3	= {5},
+	characters_voice_scenario_garbage_gar_bandit_trader_meet_bye_1	= {5},
+	characters_voice_scenario_garbage_gar_bandit_trader_meet_bye_2	= {5},
+	characters_voice_scenario_garbage_gar_bandit_trader_meet_bye_3	= {5},
+	characters_voice_scenario_garbage_gar_bandit_barman_meet_greet_1	= {5},
+	characters_voice_scenario_garbage_gar_bandit_barman_meet_greet_2	= {5},
+	characters_voice_scenario_garbage_gar_bandit_barman_meet_greet_3	= {5},
+	characters_voice_scenario_garbage_gar_bandit_barman_meet_bye_1	= {5},
+	characters_voice_scenario_garbage_gar_bandit_barman_meet_bye_2	= {5},
+	characters_voice_scenario_garbage_gar_bandit_barman_meet_bye_3	= {5},
+	characters_voice_scenario_garbage_gar_bandit_bookmaker_meet_greet_1	= {5},
+	characters_voice_scenario_garbage_gar_bandit_bookmaker_meet_greet_2	= {5},
+	characters_voice_scenario_garbage_gar_bandit_bookmaker_meet_greet_3	= {5},
+	characters_voice_scenario_garbage_gar_bandit_bookmaker_meet_bye_1	= {5},
+	characters_voice_scenario_garbage_gar_bandit_bookmaker_meet_bye_2	= {5},
+	characters_voice_scenario_garbage_gar_bandit_bookmaker_meet_bye_3	= {5},
+	characters_voice_scenario_garbage_gar_digger_leader_meet_greet_1	= {5},
+	characters_voice_scenario_garbage_gar_digger_leader_meet_greet_2	= {5},
+	characters_voice_scenario_garbage_gar_digger_leader_meet_greet_3	= {5},
+	characters_voice_scenario_garbage_gar_digger_leader_meet_bye_1	= {5},
+	characters_voice_scenario_garbage_gar_digger_leader_meet_bye_2	= {5},
+	characters_voice_scenario_garbage_gar_digger_leader_meet_bye_3	= {5},
+	-- Freedom
+	characters_voice_scenario_darkvalley_val_freedom_leader_meet_1	= {5},
+	characters_voice_scenario_darkvalley_val_freedom_leader_meet_2	= {5},
+	characters_voice_scenario_darkvalley_val_freedom_leader_meet_3	= {5},
+	characters_voice_scenario_darkvalley_val_freedom_leader_meet_bye_1	= {5},
+	characters_voice_scenario_darkvalley_val_freedom_leader_meet_bye_2	= {5},
+	characters_voice_scenario_darkvalley_val_freedom_leader_meet_bye_3	= {5},
+	characters_voice_scenario_darkvalley_val_freedom_comendant_meet_1	= {5},
+	characters_voice_scenario_darkvalley_val_freedom_comendant_meet_2	= {5},
+	characters_voice_scenario_darkvalley_val_freedom_comendant_meet_3	= {5},
+	characters_voice_scenario_darkvalley_val_freedom_comendant_meet_bye_1	= {5},
+	characters_voice_scenario_darkvalley_val_freedom_comendant_meet_bye_2	= {5},
+	characters_voice_scenario_darkvalley_val_freedom_comendant_meet_bye_3	= {5},
+	characters_voice_scenario_darkvalley_val_freedom_barmen_meet_1	= {5},
+	characters_voice_scenario_darkvalley_val_freedom_barmen_meet_2	= {5},
+	characters_voice_scenario_darkvalley_val_freedom_barmen_meet_3	= {5},
+	characters_voice_scenario_darkvalley_val_freedom_barmen_meet_bye_1	= {5},
+	characters_voice_scenario_darkvalley_val_freedom_barmen_meet_bye_2	= {5},
+	characters_voice_scenario_darkvalley_val_freedom_barmen_meet_bye_3	= {5},
+	characters_voice_scenario_darkvalley_val_freedom_trader_meet_1	= {5},
+	characters_voice_scenario_darkvalley_val_freedom_trader_meet_2	= {5},
+	characters_voice_scenario_darkvalley_val_freedom_trader_meet_3	= {5},
+	characters_voice_scenario_darkvalley_val_freedom_trader_meet_bye_1	= {5},
+	characters_voice_scenario_darkvalley_val_freedom_trader_meet_bye_2	= {5},
+	characters_voice_scenario_darkvalley_val_freedom_trader_meet_bye_3	= {5},
+	characters_voice_scenario_darkvalley_val_freedom_fixer_meet_1	= {5},
+	characters_voice_scenario_darkvalley_val_freedom_fixer_meet_2	= {5},
+	characters_voice_scenario_darkvalley_val_freedom_fixer_meet_3	= {5},
+	characters_voice_scenario_darkvalley_val_freedom_fixer_meet_bye_1	= {5},
+	characters_voice_scenario_darkvalley_val_freedom_fixer_meet_bye_2	= {5},
+	characters_voice_scenario_darkvalley_val_freedom_fixer_meet_bye_3	= {5},
+	-- Duty
+	-- characters_voice_scenario_marsh_bloodsucker_fear_1	= {5},
+	-- characters_voice_scenario_marsh_bloodsucker_fear_2	= {5},
+	-- characters_voice_scenario_marsh_bloodsucker_fear_3	= {5},
+	-- characters_voice_scenario_marsh_bloodsucker_fear_fire_1	= {5},
+	-- characters_voice_scenario_marsh_bloodsucker_fear_fire_2	= {5},
+	-- characters_voice_scenario_marsh_bloodsucker_squad_fear_1	= {5},
+	-- characters_voice_scenario_marsh_bloodsucker_squad_fear_2	= {5},
+	-- characters_voice_scenario_marsh_bloodsucker_squad_fear_3	= {5},
+	characters_voice_scenario_agroprom_agr_duty_leader_meet_1	= {5},
+	characters_voice_scenario_agroprom_agr_duty_leader_meet_2	= {5},
+	characters_voice_scenario_agroprom_agr_duty_leader_meet_3	= {5},
+	characters_voice_scenario_agroprom_agr_duty_leader_meet_bye_1	= {5},
+	characters_voice_scenario_agroprom_agr_duty_leader_meet_bye_2	= {5},
+	characters_voice_scenario_agroprom_agr_duty_leader_meet_bye_3	= {5},
+	characters_voice_scenario_agroprom_agr_duty_barman_meet_1	= {5},
+	characters_voice_scenario_agroprom_agr_duty_barman_meet_2	= {5},
+	characters_voice_scenario_agroprom_agr_duty_barman_meet_3	= {5},
+	characters_voice_scenario_agroprom_agr_duty_barman_meet_bye_1	= {5},
+	characters_voice_scenario_agroprom_agr_duty_barman_meet_bye_2	= {5},
+	characters_voice_scenario_agroprom_agr_duty_barman_meet_bye_3	= {5},
+	characters_voice_scenario_agroprom_agr_duty_trader_meet_1	= {5},
+	characters_voice_scenario_agroprom_agr_duty_trader_meet_2	= {5},
+	characters_voice_scenario_agroprom_agr_duty_trader_meet_3	= {5},
+	characters_voice_scenario_agroprom_agr_duty_trader_meet_bye_1	= {5},
+	characters_voice_scenario_agroprom_agr_duty_trader_meet_bye_2	= {5},
+	characters_voice_scenario_agroprom_agr_duty_trader_meet_bye_3	= {5},
+	characters_voice_scenario_agroprom_agr_duty_weaponmaster_meet_1	= {5},
+	characters_voice_scenario_agroprom_agr_duty_weaponmaster_meet_2	= {5},
+	characters_voice_scenario_agroprom_agr_duty_weaponmaster_meet_3	= {5},
+	characters_voice_scenario_agroprom_agr_duty_weaponmaster_meet_bye_1	= {5},
+	characters_voice_scenario_agroprom_agr_duty_weaponmaster_meet_bye_2	= {5},
+	characters_voice_scenario_agroprom_agr_duty_weaponmaster_meet_bye_3	= {5},
+	characters_voice_scenario_agroprom_agr_duty_zooman_meet_1	= {5},
+	characters_voice_scenario_agroprom_agr_duty_zooman_meet_2	= {5},
+	characters_voice_scenario_agroprom_agr_duty_zooman_meet_3	= {5},
+	characters_voice_scenario_agroprom_agr_duty_zooman_meet_bye_1	= {5},
+	characters_voice_scenario_agroprom_agr_duty_zooman_meet_bye_2	= {5},
+	characters_voice_scenario_agroprom_agr_duty_zooman_meet_bye_3	= {5},
+	-- Scientist
+	characters_voice_scenario_yantar_yan_sakharov_meet_1	= {5},
+	characters_voice_scenario_yantar_yan_sakharov_meet_2	= {5},
+	characters_voice_scenario_yantar_yan_sakharov_meet_3	= {5},
+	characters_voice_scenario_yantar_yan_sakharov_meet_bye_1	= {5},
+	characters_voice_scenario_yantar_yan_sakharov_meet_bye_2	= {5},
+	characters_voice_scenario_yantar_yan_sakharov_meet_bye_3	= {5},
+}
+
+--id																										=	{showtime, sender}
+actor_snds =
+{
+	characters_voice_scenario_darkvalley_val_freedom_blockpost_enter	=	{5, "val_freedom_comendant_name"},
+	characters_voice_scenario_darkvalley_val_killer_trep	=	{5, "val_freedom_comendant_name"},
+	-- characters_voice_scenario_agroprom_underground_agru_radio	=	{5, "sim_strelok_name"}, -- Strelok's PDA
+	characters_voice_scenario_military_mil_bs_dead	= {5, "mil_hog_name"},
+}
+
+--id																												=	{color, showtime, [distance, or sender]}
+obj_snds =
+{
+	characters_voice_scenario_escape_megafon_1	=	{2, 5, 25000},
+	characters_voice_scenario_escape_megafon_2	=	{2, 5, 25000},
+	characters_voice_scenario_escape_megafon_3	=	{2, 5, 25000},
+	characters_voice_scenario_escape_megafon_4	=	{2, 5, 25000},
+	characters_voice_scenario_escape_esc_mil_target_detected	=	{1, 5, 25000},
+	characters_voice_scenario_escape_esc_mil_target_lost	=	{1, 5, 25000},
+	characters_voice_scenario_garbage_gar_robbery_scene_come_here_1	=	{-1, 5, "bandit"},
+	characters_voice_scenario_garbage_gar_robbery_scene_come_here_2	=	{-1, 5, "bandit"},
+	characters_voice_scenario_garbage_gar_robbery_scene_come_here_3	=	{-1, 5, "bandit"},
+	characters_voice_scenario_garbage_gar_robbery_scene_return_1	=	{-1, 5, "bandit"},
+	characters_voice_scenario_garbage_gar_robbery_scene_return_2	=	{-1, 5, "bandit"},
+	characters_voice_scenario_garbage_gar_robbery_scene_return_3	=	{-1, 5, "bandit"},
+	characters_voice_scenario_darkvalley_val_freedom_dead_squad_1	=	{-1, 5, "val_freedom_comendant_name"},
+	characters_voice_scenario_darkvalley_val_freedom_dead_squad_2	=	{-1, 5, "val_freedom_comendant_name"},
+	characters_voice_scenario_darkvalley_val_freedom_dead_squad_3	=	{-1, 5, "val_freedom_comendant_name"},
+	characters_voice_scenario_darkvalley_val_freedom_megafon_1	=	{2, 5, 4500},
+	characters_voice_scenario_darkvalley_val_freedom_megafon_2	=	{2, 5, 4500},
+	characters_voice_scenario_darkvalley_val_freedom_megafon_3	=	{2, 5, 4500},
+	characters_voice_scenario_darkvalley_val_freedom_megafon_4	=	{2, 5, 4500},
+	characters_voice_scenario_darkvalley_val_freedom_megafon_5	=	{2, 5, 4500},
+	characters_voice_scenario_darkvalley_val_freedom_megafon_6	=	{2, 5, 4500},
+	characters_voice_scenario_darkvalley_val_freedom_megafon_7	=	{2, 5, 4500},
+	characters_voice_scenario_darkvalley_val_freedom_megafon_rugan_1	=	{2, 5, 4500},
+	characters_voice_scenario_darkvalley_val_freedom_megafon_rugan_2	=	{2, 5, 4500},
+	characters_voice_scenario_darkvalley_val_freedom_megafon_rugan_3	=	{2, 5, 4500},
+	characters_voice_scenario_agroprom_agr_base_dolg_megafon_1	=	{2, 5, 4500},
+	characters_voice_scenario_agroprom_agr_base_dolg_megafon_2	=	{2, 5, 4500},
+	characters_voice_scenario_agroprom_agr_base_dolg_megafon_3	=	{2, 5, 4500},
+	characters_voice_scenario_agroprom_agr_base_dolg_megafon_4	=	{2, 5, 4500},
+	characters_voice_scenario_agroprom_agr_base_dolg_megafon_5	=	{2, 5, 4500},
+	characters_voice_scenario_agroprom_agr_base_dolg_megafon_6	=	{2, 5, 4500},
+	characters_voice_scenario_agroprom_agr_base_dolg_megafon_7	=	{2, 5, 4500},
+}
+
+-- p:string
+function cc_display_mobsnd(p)
+	local cc_id = string.gsub(p, "\\", "_")
+	local cc_value = mob_snds[cc_id]
+	if cc_value then
+		cc_display_subs(cc_id, 1, cc_value[1]) -- only for Sid and Forester
+	end
+end
+
+-- cc_id:string
+function cc_display_npcsnd(cc_id)
+	local cc_value = npc_snds[cc_id]
+	if cc_value then
+		cc_display_subs("cc_" .. cc_id, 1, cc_value[1]) -- only for greetings and farewells
+	end
+end
+
+-- p:string, obj:userdata
+function cc_display_sndpath(p, obj)
+	local cc_id = string.gsub(p, "\\", "_")
+	local cc_value = actor_snds[cc_id]
+	if cc_value then
+		cc_send_tip(cc_id, cc_value[1]*1000, cc_value[2]) -- pda message
+	else
+		cc_value = obj_snds[cc_id]
+		if cc_value then
+			if cc_value[1] == -1 then
+				cc_send_tip(cc_id, cc_value[2]*1000, cc_value[3]) -- pda message
+			elseif cc_value[1] >= 1 and obj ~= nil then
+				local dist = obj:position():distance_to_sqr(db.actor:position())
+				if dist <= cc_value[3] then
+					cc_display_subs(cc_id, cc_value[1], cc_value[2]) -- megafon and soldier
+				end
+			end
+		end
+	end
+end
+
+-- cc_id:string, color:number, showtime:number
+function cc_display_subs(cc_id, color, showtime)
+	if color == nil or showtime == nil then return end
+	if db.cc_npc == true then
+		local time_now = time_global() / 1000
+		local time_ccend = time_now + showtime
+
+		local tmpl = "closecaption_" .. color
+		local hud = get_hud()
+		hud:AddCustomStatic(tmpl, true)
+		hud:GetCustomStatic(tmpl):wnd():SetTextST(game.translate_string(cc_id))
+		hud:GetCustomStatic(tmpl).m_endTime = time_ccend
+	elseif db.cc_npc == nil then
+		read_cc_ini()
+		if db.cc_npc ~= nil then
+			cc_display_subs(cc_id, showtime, color, sender)
+		end
+	end
+end
+
+-- news_id:string, showtime:number, sender:string
+function cc_send_tip(news_id, showtime, sender)
+	if showtime == nil or sender == nil then return end
+	if db.cc_npc == true then
+
+		local texture = tips_icons[sender]
+		local news_caption = game.translate_string("st_tip") .. ":"
+		local news_text = game.translate_string(news_id)
+
+		db.actor:give_game_news(news_caption, news_text, texture, 0, showtime, 1)
+	elseif db.cc_npc == nil then
+		read_cc_ini()
+		if db.cc_npc ~= nil then
+			cc_send_tip(news_id, showtime, sender)
+		end
+	end
+end
+
+function read_cc_ini()
+	-------- read values from the closecaption.ltx file
+	-------- commented lines used as reference if they need to be used in the future
+	local cc = "closecaption"
+	-- local p_igm, cc_igm, cc_npc, cc_icc, cc_nip = true, false, false, false, false
+	local cc_npc = false
+	cc_npc = load_variable("cc_npc", 0)
+	if cc_npc == 0 then
+		local ini = ini_file("misc\\closecaption.ltx")
+		if ini:section_exist(cc) then
+			--[[
+			if ini:line_exist(cc, "play_igm") then
+       				p_igm = ini:r_bool(cc, "play_igm")
+			end
+			 ]]
+			--[[
+ 			if ini:line_exist(cc, "cc_ingame_video") then
+				cc_igm = ini:r_bool(cc, "cc_ingame_video")
+			end
+			 ]]
+			if ini:line_exist(cc, "cc_ingame_npc") then
+				cc_npc = ini:r_bool(cc, "cc_ingame_npc")
+			end
+			--[[
+ 			if ini:line_exist(cc, "cc_ingame_cc") then
+				cc_icc = ini:r_bool(cc, "cc_ingame_cc")
+			end
+			 ]]
+			--[[
+			if ini:line_exist(cc, "cc_add_new_info") then
+				cc_nip = ini:r_bool(cc, "cc_add_new_info")
+			end
+			 ]]
+			--[[
+			if ini:line_exist(cc, "cc_video_player") then
+				cc_vpl = ini:r_bool(cc, "cc_video_player")
+			end
+			 ]]
+		end
+		-- db.p_igm = p_igm
+		-- db.cc_igm = cc_igm
+		db.cc_npc = cc_npc
+		-- db.cc_icc = cc_icc
+		-- db.cc_nip = cc_nip
+		-- save_variable("cc_nip", cc_nip)
+		-- save_variable("cc_icc", cc_icc)
+		save_variable("cc_npc", cc_npc)
+		-- save_variable("cc_igm", cc_igm)
+		-- save_variable("p_igm", p_igm)
+	else
+		-- cc_nip = load_variable("cc_nip", cc_nip)
+		-- cc_icc = load_variable("cc_icc", cc_icc)
+		-- cc_igm = load_variable("cc_igm", cc_igm)
+		-- p_igm = load_variable("p_igm", p_igm)
+		-- db.p_igm = p_igm
+		-- db.cc_igm = cc_igm
+		db.cc_npc = cc_npc
+		-- db.cc_icc = cc_icc
+		-- db.cc_nip = cc_nip
+	end
+end
+
+-- code portions from the excellent AMK mod --
+function save_variable(variable_name, value)
+  xr_logic.pstor_store(db.actor, variable_name, value)
+end
+
+function load_variable(variable_name, value_if_not_found)
+  return xr_logic.pstor_retrieve(db.actor, variable_name, value_if_not_found)
+end
+
+function del_variable(variable_name)
+  if db.storage[db.actor:id()].pstor[variable_name] then
+    db.storage[db.actor:id()].pstor[variable_name] = nil
+  end
+end
