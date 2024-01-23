@@ -46,19 +46,19 @@ function run_tutorial()
 end
 
 function cc_leader_intro_dialog_0()
-	cc_display_leader("mar_csky_leader_intro_dialog_0", 5)
+	cc_display_leader("mar_csky_leader_intro_dialog_0", 3.6)
 end
 
 function cc_leader_intro_dialog_2()
-	cc_display_leader("mar_csky_leader_intro_dialog_2", 5)
+	cc_display_leader("mar_csky_leader_intro_dialog_2", 1.8)
 end
 
 function cc_leader_intro_dialog_4()
-	cc_display_leader("mar_csky_leader_intro_dialog_4", 5)
+	cc_display_leader("mar_csky_leader_intro_dialog_4", 18.3)
 end
 
 function cc_leader_intro_dialog_6()
-	cc_display_leader("mar_csky_leader_intro_dialog_6", 5)
+	cc_display_leader("mar_csky_leader_intro_dialog_6", 31.1)
 end
 
 function cc_display_leader(cc_id, showtime)
