@@ -353,6 +353,7 @@
 			<phrase id="0">
 				<text>mar_csky_leader_intro_dialog_0</text>
 				<action>dialogs_marsh.enable_input</action>
+				<action>dialogs_marsh.cc_leader_intro_dialog_0</action>
 				<next>1</next>
 			</phrase>
 			<phrase id="1">
@@ -361,6 +362,7 @@
 			</phrase>
 			<phrase id="2">
 				<text>mar_csky_leader_intro_dialog_2</text>
+				<action>dialogs_marsh.cc_leader_intro_dialog_2</action>
 				<next>3</next>
 			</phrase>
 			<phrase id="3">
@@ -369,6 +371,7 @@
 			</phrase>
 			<phrase id="4">
 				<text>mar_csky_leader_intro_dialog_4</text>
+				<action>dialogs_marsh.cc_leader_intro_dialog_4</action>
 				<next>5</next>
 			</phrase>
 			<phrase id="5">
@@ -377,6 +380,7 @@
 			</phrase>
 			<phrase id="6">
 				<text>mar_csky_leader_intro_dialog_6</text>
+				<action>dialogs_marsh.cc_leader_intro_dialog_6</action>
 				<next>7</next>
 			</phrase>
 			<phrase id="7">
