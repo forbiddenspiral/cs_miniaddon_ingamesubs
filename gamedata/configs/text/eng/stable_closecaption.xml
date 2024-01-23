@@ -153,17 +153,6 @@
 			\n%c[ui_8]Hey Strelok, glad to see you alive. Fang and I found all the parts we needed and put together two decoders. We left them both in a stash near the Scorcher. We'll pick them up when we head for the center.
 			\n%c[default]Ghost, that's great news. Our plan is as follows. We can't make it through the underground, so our only option is to go past the Scorcher. I'm on my way to Sakharov to pick up a device that will help us get through the Scorcher in one piece. Wait for me at the military warehouses.</text>
 	</string>
-	<!--
-	<string id="characters_voice_scenario_agroprom_underground_agru_waterfall">
-		<text>English Subtitles.</text>
-	</string>
-	-->
-	<string id="characters_voice_scenario_darkvalley_val_antenna_poterya_controlya">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_darkvalley_val_freedom_ambush_end">
-		<text>English Subtitles.</text>
-	</string>
 	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_barmen_meet_1">
 		<text>Yo bro, I'll be with you in a sec.</text>
 	</string>
@@ -268,104 +257,6 @@
 			\nAll that horse shit he gave us about how the outpost was out of ammo!
 			\nThose freedom bastards wounded two of our boys!
 			\n%c[ui_8]Enough yapping! Let's cover up our tracks and get out of here!</text>
-	</string>
-	<!--
-	<string id="characters_voice_scenario_escape_comandir_megafon_1">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_escape_comandir_megafon_10">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_escape_comandir_megafon_11">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_escape_comandir_megafon_12">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_escape_comandir_megafon_13">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_escape_comandir_megafon_14">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_escape_comandir_megafon_15">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_escape_comandir_megafon_16">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_escape_comandir_megafon_17">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_escape_comandir_megafon_2">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_escape_comandir_megafon_3">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_escape_comandir_megafon_4">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_escape_comandir_megafon_5">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_escape_comandir_megafon_6">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_escape_comandir_megafon_7">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_escape_comandir_megafon_8">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_escape_comandir_megafon_9">
-		<text>English Subtitles.</text>
-	</string>
-	-->
-	<string id="characters_voice_scenario_escape_esc_driver_talk_1">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_escape_esc_driver_talk_2">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_escape_esc_driver_talk_3">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_escape_esc_railroadpost_no_1_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_escape_esc_railroadpost_no_2_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_escape_esc_railroadpost_no_3_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_escape_esc_railroadpost_no_pda_1">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_escape_esc_railroadpost_no_pda_2">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_escape_esc_railroadpost_no_pda_3">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_escape_esc_railroadpost_yes_1_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_escape_esc_railroadpost_yes_2_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_escape_esc_railroadpost_yes_3_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_escape_esc_railroadpost_yes_pda_1">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_escape_esc_railroadpost_yes_pda_2">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_escape_esc_railroadpost_yes_pda_3">
-		<text>English Subtitles.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_escape_esc_stalker_leader_meet_1">
 		<text>English Subtitles.</text>
@@ -520,24 +411,6 @@
 	<string id="characters_voice_scenario_escape_megafon_alarm_9">
 		<text>English Subtitles.</text>
 	</string>
-	<string id="characters_voice_scenario_garbage_gar_bandit_conc_camp_blockpost_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_bandit_leader_kill_digger_traitor_call_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_bandit_leader_kill_digger_traitor_done_a_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_bandit_leader_kill_digger_traitor_done_b_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_bandit_leader_kill_digger_traitor_done_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_bandit_leader_kill_smuggler_done_pda">
-		<text>English Subtitles.</text>
-	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_bandit_barman_meet_bye_1">
 		<text>If the going gets tough, pay me a visit.</text>
 	</string>
@@ -595,24 +468,6 @@
 	<string id="cc_characters_voice_scenario_garbage_gar_bandit_leader_meet_greet_b_1">
 		<text>And to what do we owe this honor?</text>
 	</string>
-	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_man_gone_1_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_man_gone_2_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_man_gone_3_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_man_gone_pda_1">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_man_gone_pda_2">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_bandit_minigame_man_gone_pda_3">
-		<text>English Subtitles.</text>
-	</string>
 	<string id="cc_characters_voice_scenario_garbage_gar_bandit_tech_meet_bye_1">
 		<text>I say it's time to catch a buzz. Senka, get up, you bum!</text>
 	</string>
@@ -631,194 +486,7 @@
 	<string id="cc_characters_voice_scenario_garbage_gar_bandit_tech_meet_greet_3">
 		<text>Senka and I are always glad to see our customers.</text>
 	</string>
-	<string id="characters_voice_scenario_garbage_gar_digger_captive_leader_reward_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_digger_leader_ambush_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_digger_leader_looked_at_dead_camp_a">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_digger_leader_looked_at_dead_camp_b">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_digger_leader_traitor_dead_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_digger_leader_traitor_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_digger_messenger_thanks_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_digger_quester_looked_at_dead_camp">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_digger_traitor_attack_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_pay_1_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_pay_2_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_pay_3_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_pay_4_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_pay_pda_1">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_pay_pda_2">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_pay_pda_3">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_pay_pda_4">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_reject_1_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_reject_2_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_reject_3_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_reject_pda_1">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_reject_pda_2">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_robbery_scene_after_reject_pda_3">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_robbery_scene_come_here_1_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_robbery_scene_come_here_2_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_robbery_scene_come_here_3_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_robbery_scene_come_here_pda_1">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_robbery_scene_come_here_pda_2">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_robbery_scene_come_here_pda_3">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_robbery_scene_kill_actor_1_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_robbery_scene_kill_actor_2_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_robbery_scene_kill_actor_pda_1">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_robbery_scene_kill_actor_pda_2">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_robbery_scene_return_1_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_robbery_scene_return_2_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_robbery_scene_return_3_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_robbery_scene_return_pda_1">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_robbery_scene_return_pda_2">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_robbery_scene_return_pda_3">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_garbage_gar_stalker_group_talk">
-		<text>English Subtitles.</text>
-	</string>
-	<!--
-	<string id="characters_voice_scenario_generator_actor_no_time">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_generator_generator">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_generator_uno_commander_defence">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_generator_uno_commander_forward">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_generator_uno_commander_story_1">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_generator_uno_commander_story_1b">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_generator_uno_commander_story_2">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_generator_uno_commander_surge">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_generator_uno_kill_snork">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_generator_uno_scientist_passage">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_generator_uno_scientist_snork_1">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_generator_uno_scientist_snork_2">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_generator_uno_scientist_snork_3">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_generator_uno_surprise">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_generator_uno_target_reached">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_generator_uno_target_reply">
-		<text>English Subtitles.</text>
-	</string>
-	-->
-	<!--
-	<string id="characters_voice_scenario_hospital_expl_door">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_hospital_hospital_gunfire_1">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_hospital_hospital_sniper_1">
-		<text>English Subtitles.</text>
-	</string>
-	-->
 	<string id="characters_voice_scenario_limansk_lim_cs_reconnaissance_squad_electricity_off_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_limansk_lim_cs_report1_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_limansk_lim_cs_storm_troop2_leader_to_actor6_pda">
 		<text>English Subtitles.</text>
 	</string>
 	<string id="characters_voice_scenario_marsh_bloodsucker_comander_to_squad_1">
@@ -905,9 +573,6 @@
 	<string id="characters_voice_scenario_marsh_bloodsucker_squad_fear_3">
 		<text>English Subtitles.</text>
 	</string>
-	<string id="characters_voice_scenario_marsh_mar_csky_hide_in_tower_0_pda">
-		<text>English Subtitles.</text>
-	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_barman_meet_bye_1">
 		<text>Pop in anytime you feel like chatting.</text>
 	</string>
@@ -968,86 +633,6 @@
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_leader_meet_greet_4">
 		<text>Speak of the devil, I was just thinking of you.</text>
 	</string>
-	<string id="characters_voice_scenario_marsh_mar_csky_leader_to_trader_0_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_marsh_mar_csky_trader_reply_0_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_military_mil_enter_second">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_military_mil_enter_wait_actor_1">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_military_mil_enter_wait_actor_2">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_military_mil_enter_wait_actor_3">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_military_mil_freedom_com_finish_task_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_military_mil_freedom_com_radio_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_military_mil_freedom_com_task_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_military_mil_hires_in_bubble_thanks_2">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_military_mil_rnd_radio_4">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_military_mil_rnd_radio_5">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_military_mil_stalker_radio_2">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_military_mil_stalker_radio_3">
-		<text>English Subtitles.</text>
-	</string>
-	<!--
-	<string id="characters_voice_scenario_polygon_polygon_complete">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_polygon_polygon_fight_1">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_polygon_polygon_fight_2">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_polygon_polygon_fight_3">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_polygon_polygon_fight_4">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_polygon_polygon_fight_5">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_polygon_polygon_intro">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_polygon_polygon_win_fight">
-		<text>English Subtitles.</text>
-	</string>
-	-->
-	<string id="characters_voice_scenario_red_forest_red_bridge_finished_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_red_forest_red_bridge_spawn_bandits_1">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_red_forest_red_bridge_spawn_bandits_2">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_red_forest_red_bridge_spawn_bandits_3">
-		<text>English Subtitles.</text>
-	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_tech_meet_bye_1">
 		<text>Remember, to be a good shooter, get your gun talking at the right time.</text>
 	</string>
@@ -1101,15 +686,6 @@
 	</string>
 	<string id="characters_voice_scenario_red_forest_red_forester_meet_hello_2">
 		<text>Are you here on business or just taking a hike?</text>
-	</string>
-	<string id="characters_voice_scenario_yantar_yan_give_orders">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_yantar_yan_give_orders_1_pda">
-		<text>English Subtitles.</text>
-	</string>
-	<string id="characters_voice_scenario_yantar_yan_give_orders_2_pda">
-		<text>English Subtitles.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_yantar_yan_sakharov_meet_1">
 		<text>How are you, young man?</text>
