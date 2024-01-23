@@ -567,7 +567,9 @@
 	<!-- Sounds by npc_snds -->
 	<!-- Sounds by actor_snds -->
 	<string id="characters_voice_scenario_agroprom_underground_agru_radio">
-		<text>Strelok's PDA.</text>
+		<text>%c[default]Guys, this is Strelok. I didn't expect Doc to fix me up so fast. I heard rumors that someone has learned of our success and is seeking to contact us. I have a bad feeling about this. I fear we may need to hurry up with our next visit to the center.
+		\n%c[ui_8]Hey Strelok, glad to see you alive. Fang and I found all the parts we needed and put together two decoders. We left them both in a stash near the Scorcher. We'll pick them up when we head for the center.
+		\n%c[default]Ghost, that's great news. Our plan is as follows. We can't make it through the underground, so our only option is to go past the Scorcher. I'm on my way to Sakharov to pick up a device that will help us get through the Scorcher in one piece. Wait for me at the military warehouses.</text>
 	</string>
 	<!-- Sounds by obj_snds -->
 	<!-- YANTAR -->
