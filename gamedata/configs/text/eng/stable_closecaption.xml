@@ -153,9 +153,11 @@
 			\n%c[ui_8]Hey Strelok, glad to see you alive. Fang and I found all the parts we needed and put together two decoders. We left them both in a stash near the Scorcher. We'll pick them up when we head for the center.
 			\n%c[default]Ghost, that's great news. Our plan is as follows. We can't make it through the underground, so our only option is to go past the Scorcher. I'm on my way to Sakharov to pick up a device that will help us get through the Scorcher in one piece. Wait for me at the military warehouses.</text>
 	</string>
+	<!--
 	<string id="characters_voice_scenario_agroprom_underground_agru_waterfall">
 		<text>English Subtitles.</text>
 	</string>
+	-->
 	<string id="characters_voice_scenario_darkvalley_val_antenna_poterya_controlya">
 		<text>English Subtitles.</text>
 	</string>
@@ -267,6 +269,7 @@
 			\nThose freedom bastards wounded two of our boys!
 			\n%c[ui_8]Enough yapping! Let's cover up our tracks and get out of here!</text>
 	</string>
+	<!--
 	<string id="characters_voice_scenario_escape_comandir_megafon_1">
 		<text>English Subtitles.</text>
 	</string>
@@ -318,6 +321,7 @@
 	<string id="characters_voice_scenario_escape_comandir_megafon_9">
 		<text>English Subtitles.</text>
 	</string>
+	-->
 	<string id="characters_voice_scenario_escape_esc_driver_talk_1">
 		<text>English Subtitles.</text>
 	</string>
@@ -747,6 +751,7 @@
 	<string id="characters_voice_scenario_garbage_gar_stalker_group_talk">
 		<text>English Subtitles.</text>
 	</string>
+	<!--
 	<string id="characters_voice_scenario_generator_actor_no_time">
 		<text>English Subtitles.</text>
 	</string>
@@ -795,6 +800,8 @@
 	<string id="characters_voice_scenario_generator_uno_target_reply">
 		<text>English Subtitles.</text>
 	</string>
+	-->
+	<!--
 	<string id="characters_voice_scenario_hospital_expl_door">
 		<text>English Subtitles.</text>
 	</string>
@@ -804,6 +811,7 @@
 	<string id="characters_voice_scenario_hospital_hospital_sniper_1">
 		<text>English Subtitles.</text>
 	</string>
+	-->
 	<string id="characters_voice_scenario_limansk_lim_cs_reconnaissance_squad_electricity_off_pda">
 		<text>English Subtitles.</text>
 	</string>
