@@ -1010,6 +1010,7 @@
 	<string id="characters_voice_scenario_military_mil_stalker_radio_3">
 		<text>English Subtitles.</text>
 	</string>
+	<!--
 	<string id="characters_voice_scenario_polygon_polygon_complete">
 		<text>English Subtitles.</text>
 	</string>
@@ -1034,6 +1035,7 @@
 	<string id="characters_voice_scenario_polygon_polygon_win_fight">
 		<text>English Subtitles.</text>
 	</string>
+	-->
 	<string id="characters_voice_scenario_red_forest_red_bridge_finished_pda">
 		<text>English Subtitles.</text>
 	</string>
