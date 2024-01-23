@@ -144,7 +144,6 @@
 	</string>
 	<!-- Sounds by actor_snds -->
 	<!-- Sounds by obj_snds -->
-
 	<!-- ESCAPE -->
 	<!-- Sounds by npc_snds -->
 	<string id="cc_characters_voice_scenario_escape_esc_stalker_trader_meet_1">
@@ -563,7 +562,6 @@
 	<string id="characters_voice_scenario_darkvalley_val_freedom_megafon_rugan_3">
 		<text>val_freedom_megafon_rugan_3</text>
 	</string>
-	<!-- Sounds by snd_paths -->
 	<!-- AGROPROM_UNDERGROUND -->
 	<!-- Sounds by npc_snds -->
 	<!-- Sounds by actor_snds -->
