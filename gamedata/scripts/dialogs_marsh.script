@@ -61,6 +61,12 @@ function cc_leader_intro_dialog_6()
 	cc_display_leader("mar_csky_leader_intro_dialog_6", 31.1)
 end
 
+function cc_remove_hud()
+	local hud = get_hud()
+	hud:GetCustomStatic("closecaption_leader")
+	hud:RemoveCustomStatic("closecaption_leader")
+end
+
 function cc_display_leader(cc_id, showtime)
 	local hud = get_hud()
 	hud:AddCustomStatic("closecaption_leader", true)

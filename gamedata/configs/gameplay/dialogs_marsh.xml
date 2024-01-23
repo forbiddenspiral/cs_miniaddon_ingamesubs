@@ -354,6 +354,7 @@
 				<text>mar_csky_leader_intro_dialog_0</text>
 				<action>dialogs_marsh.enable_input</action>
 				<action>dialogs_marsh.cc_leader_intro_dialog_0</action>
+				<action>level.show_indicators</action>
 				<next>1</next>
 			</phrase>
 			<phrase id="1">
@@ -386,6 +387,7 @@
 			<phrase id="7">
 				<text>mar_csky_leader_intro_dialog_7</text>
 				<action>dialogs.break_dialog</action>
+				<action>dialogs_marsh.cc_remove_hud</action>
 			</phrase>
 		</phrase_list>
 	</dialog>
