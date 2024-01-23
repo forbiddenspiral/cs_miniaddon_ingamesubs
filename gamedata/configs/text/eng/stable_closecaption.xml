@@ -47,100 +47,100 @@
 	<!-- MARSH -->
 	<!-- Sounds by npc_snds -->
   <string id="cc_characters_voice_scenario_marsh_mar_csky_leader_meet_greet_1">
-		<text>English Subtitles.</text>
+		<text>Something on your mind, Mark?</text>
 	</string>
   <string id="cc_characters_voice_scenario_marsh_mar_csky_leader_meet_greet_2">
-		<text>English Subtitles.</text>
+		<text>Glad to see you. Got any new questions for me?</text>
 	</string>
   <string id="cc_characters_voice_scenario_marsh_mar_csky_leader_meet_greet_3">
-		<text>English Subtitles.</text>
+		<text>What brings you here, mercenary?</text>
 	</string>
   <string id="cc_characters_voice_scenario_marsh_mar_csky_leader_meet_greet_4">
-		<text>English Subtitles.</text>
+		<text>Speak of the devil, I was just thinking of you.</text>
 	</string>
   <string id="cc_characters_voice_scenario_marsh_mar_csky_leader_meet_bye_1">
-		<text>English Subtitles.</text>
+		<text>If you learn any news, come back and share it with me.</text>
 	</string>
   <string id="cc_characters_voice_scenario_marsh_mar_csky_leader_meet_bye_2">
-		<text>English Subtitles.</text>
+		<text>See you.</text>
 	</string>
   <string id="cc_characters_voice_scenario_marsh_mar_csky_leader_meet_bye_3">
-		<text>English Subtitles.</text>
+		<text>Stay in touch, we may need your help soon.</text>
 	</string>
   <string id="cc_characters_voice_scenario_marsh_mar_csky_leader_meet_bye_4">
-		<text>English Subtitles.</text>
+		<text>Come see me if you learn something important.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_doctor_meet_greet_1">
-		<text>English Subtitles.</text>
+		<text>Can I help you?</text>
 	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_doctor_meet_greet_2">
-		<text>English Subtitles.</text>
+		<text>Oh, I didn't notice you come in.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_doctor_meet_greet_3">
-		<text>English Subtitles.</text>
+		<text>Ah, it's you!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_doctor_meet_bye_1">
-		<text>English Subtitles.</text>
+		<text>If you need me, you know where to find me.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_doctor_meet_bye_2">
-		<text>English Subtitles.</text>
+		<text>Hmm, if that is all, I better get back to my work.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_doctor_meet_bye_3">
-		<text>English Subtitles.</text>
+		<text>Hopefully my answers will be of help to us all.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_barman_meet_greet_1">
-		<text>English Subtitles.</text>
+		<text>I see you. Just a minute.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_barman_meet_greet_2">
-		<text>English Subtitles.</text>
+		<text>Welcome back from the Afterworld!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_barman_meet_greet_3">
-		<text>English Subtitles.</text>
+		<text>Look who we got visiting our swamps! You sure are a whiff of fresh air!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_barman_meet_bye_1">
-		<text>English Subtitles.</text>
+		<text>Pop in anytime you feel like chatting.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_barman_meet_bye_2">
-		<text>English Subtitles.</text>
+		<text>Well, next time you're at the swamps, don't be a stranger.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_barman_meet_bye_3">
-		<text>English Subtitles.</text>
+		<text>Stop by for a chat anytime. This place is so boring.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_trader_meet_greet_1">
-		<text>English Subtitles.</text>
+		<text>A visitor? I'll be right there.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_trader_meet_greet_2">
-		<text>English Subtitles.</text>
+		<text>Hello there.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_trader_meet_greet_3">
-		<text>English Subtitles.</text>
+		<text>You're with us again, glad to see you.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_trader_meet_bye_1">
-		<text>English Subtitles.</text>
+		<text>Good luck to you.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_trader_meet_bye_2">
-		<text>English Subtitles.</text>
+		<text>Have a safe trip!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_trader_meet_bye_3">
-		<text>English Subtitles.</text>
+		<text>Drop in next time you're in our neck of the woods.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_tech_meet_greet_1">
-		<text>English Subtitles.</text>
+		<text>I'll be there in a moment.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_tech_meet_greet_2">
-		<text>English Subtitles.</text>
+		<text>Need something upgraded or repaired? We got enough duct tape to patch the whole zone up if need be!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_tech_meet_greet_3">
-		<text>English Subtitles.</text>
+		<text>I repair faults in hardware, not in its owner's arms.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_tech_meet_bye_1">
-		<text>English Subtitles.</text>
+		<text>Remember, to be a good shooter, get your gun talking at the right time.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_tech_meet_bye_2">
-		<text>English Subtitles.</text>
+		<text>You get anything else to fix, come to me for help.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_tech_meet_bye_3">
-		<text>English Subtitles.</text>
+		<text>Well, good luck!</text>
 	</string>
 	<!-- Sounds by actor_snds -->
 	<!-- Sounds by obj_snds -->
