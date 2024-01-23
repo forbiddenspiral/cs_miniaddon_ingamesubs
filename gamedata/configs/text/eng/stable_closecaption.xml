@@ -147,58 +147,58 @@
 	<!-- ESCAPE -->
 	<!-- Sounds by npc_snds -->
 	<string id="cc_characters_voice_scenario_escape_esc_stalker_trader_meet_1">
-		<text>English Subtitles.</text>
+		<text>I'm coming, I'm coming.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_escape_esc_stalker_trader_meet_2">
-		<text>English Subtitles.</text>
+		<text>What can I do you for?</text>
 	</string>
 	<string id="cc_characters_voice_scenario_escape_esc_stalker_trader_meet_3">
-		<text>English Subtitles.</text>
+		<text>Got something to sell?</text>
 	</string>
 	<string id="cc_characters_voice_scenario_escape_esc_stalker_trader_meet_bye_1">
-		<text>English Subtitles.</text>
+		<text>Sorry if I don't have what you're looking for.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_escape_esc_stalker_trader_meet_bye_2">
-		<text>English Subtitles.</text>
+		<text>Come back later, I might get a new shipment.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_escape_esc_stalker_trader_meet_bye_3">
-		<text>English Subtitles.</text>
+		<text>Nice doing business with an honest stalker.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_escape_esc_stalker_mechanic_meet_1">
-		<text>English Subtitles.</text>
+		<text>Got something that needs fixin'?</text>
 	</string>
 	<string id="cc_characters_voice_scenario_escape_esc_stalker_mechanic_meet_2">
-		<text>English Subtitles.</text>
+		<text>You wanna upgrade something or patch it up?</text>
 	</string>
 	<string id="cc_characters_voice_scenario_escape_esc_stalker_mechanic_meet_3">
-		<text>English Subtitles.</text>
+		<text>What can I do for you?</text>
 	</string>
 	<string id="cc_characters_voice_scenario_escape_esc_stalker_mechanic_meet_bye_1">
-		<text>English Subtitles.</text>
+		<text>If you need anything else, come by.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_escape_esc_stalker_mechanic_meet_bye_2">
-		<text>English Subtitles.</text>
+		<text>Sorry if I wasn't much help.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_escape_esc_stalker_mechanic_meet_bye_3">
-		<text>English Subtitles.</text>
+		<text>If you find some more upgrade parts, get them over here and we'll see what we can do.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_escape_esc_military_prisoner_meet_1">
-		<text>English Subtitles.</text>
+		<text>What you staring at? This ain't no zoo!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_escape_esc_military_prisoner_meet_2">
-		<text>English Subtitles.</text>
+		<text>What's so interesting, huh? Friggin' idiots.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_escape_esc_military_prisoner_meet_3">
-		<text>English Subtitles.</text>
+		<text>Come, everyone, and rejoice, Kalatsky's in a cage!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_escape_esc_military_prisoner_meet_bye_1">
-		<text>English Subtitles.</text>
+		<text>Get lost and stay lost, Merc!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_escape_esc_military_prisoner_meet_bye_2">
-		<text>English Subtitles.</text>
+		<text>Good riddance.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_escape_esc_military_prisoner_meet_bye_3">
-		<text>English Subtitles.</text>
+		<text>Don't stop on your way out the door, and keep going till you hit an anomaly.</text>
 	</string>
 	<!-- Sounds by actor_snds -->
 	<!-- Sounds by obj_snds -->
