@@ -217,9 +217,9 @@
 		<text font="graffiti22" r="240" g="192" b="0" a="255" align="c"/>
 	</closecaption_10>
 
-	<closecaption_leader  x="238" y="114" width="550" height="72" alignment="l" complex_mode="1">	<!-- csky leader -->
-		<texture x="0" y="0" width="594" height="173" a="128">intro\intro_back</texture>
-		<text x="10" y="10" font="letterica18" r="68" g="225" b="100" a="255" align="l"/>  <!-- 231 168 121 -->
+	<closecaption_leader  x="280" y="114" width="420" height="72" alignment="l" complex_mode="1">	<!-- csky leader -->
+		<texture x="0" y="0" width="464" height="173" a="128">intro\intro_back</texture>
+		<text x="10" y="10" font="letterica18" r="216" g="186" b="140" a="255" align="l"/>
 	</closecaption_leader>
 
 </header>
