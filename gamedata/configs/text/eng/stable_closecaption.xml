@@ -202,17 +202,18 @@
 	</string>
 	<!-- Sounds by actor_snds -->
 	<!-- Sounds by obj_snds -->
+	<!-- From the original InGameCC mod -->
 	<string id="characters_voice_scenario_escape_megafon_1">
-		<text>English Subtitles.</text>
+		<text>Attention! You're approaching the secured perimeter of an ecological disaster zone! Illicit crossing of the perimeter is a criminal act!</text>
 	</string>
 	<string id="characters_voice_scenario_escape_megafon_2">
-		<text>English Subtitles.</text>
+		<text>Any attempt to penetrate the secured zone will be punished by any means necessary! Patrols have the right to shoot on sight!</text>
 	</string>
 	<string id="characters_voice_scenario_escape_megafon_3">
-		<text>English Subtitles.</text>
+		<text>The Zone poses mortal danger! We're here to protect you from the Zone, not the Zone from you. Do not jeopardize your life! Do not try to penetrate into the secured area!</text>
 	</string>
 	<string id="characters_voice_scenario_escape_megafon_4">
-		<text>English Subtitles.</text>
+		<text>The Security Service of Ukraine is calling all right minded and loyal citizens to collaborate with the authorities. Report all known cases of stalking! Do not let the looters hide behind your backs! They bring radioactive unidentified items from the Zone that are highly dangerous for human health and life. Only with your help can we eliminate this hideous phenomenon! Do not put your lifes and the lifes of your families at risk for the sake of dubious profit!</text>
 	</string>
 	<string id="characters_voice_scenario_escape_esc_mil_target_detected">
 		<text>Alert! Stalker detected! Open fire!</text>
