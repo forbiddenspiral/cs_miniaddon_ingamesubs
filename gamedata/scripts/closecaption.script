@@ -358,6 +358,7 @@ end
 -- cc_id:string, color:number, showtime:number
 function cc_display_subs(cc_id, color, showtime)
 	if color == nil or showtime == nil then return end
+	if db.actor:is_talking() then return end
 	if db.cc_npc == true then
 		local time_now = time_global() / 1000
 		local time_ccend = time_now + showtime
