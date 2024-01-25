@@ -182,7 +182,7 @@
 	</closecaption_1>
 
 	<closecaption_2  x="512" y="565" width="740" height="72" alignment="c" complex_mode="1">	<!-- megafon, "megaphone" -->
-                <text font="graffiti22" r="180" g="172" b="148" a="255" align="c"/>
+		<text font="graffiti22" r="180" g="172" b="148" a="255" align="c"/>
 	</closecaption_2>
 
 	<closecaption_3  x="512" y="600" width="600" height="72" alignment="c" complex_mode="1">	<!-- distant voice, "shouting from afar" -->

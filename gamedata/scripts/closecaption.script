@@ -424,7 +424,7 @@ function read_cc_ini()
 		if ini:section_exist(cc) then
 			--[[
 			if ini:line_exist(cc, "play_igm") then
-       				p_igm = ini:r_bool(cc, "play_igm")
+				p_igm = ini:r_bool(cc, "play_igm")
 			end
 			 ]]
 			--[[
