@@ -1,4 +1,4 @@
-# Project files
+# project files
 .vscode
 Copy-CS.ps1
 CS-MAIN-PROJECT.code-workspace
@@ -7,6 +7,6 @@ Release.ps1
 Run-CS.ps1
 Unset-Read-Only.ps1
 
-# Debugging files
+# debugging files
 gamedata/scripts/show_on_hud.script
 gamedata/scripts/ui_main_menu.script
