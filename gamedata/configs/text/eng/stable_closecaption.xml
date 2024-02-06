@@ -5,7 +5,7 @@
 		<text>What tickles your fancy, earning some coin or booze to spend it on?</text>
 	</string>
 	<string id="cc_characters_voice_scenario_agroprom_agr_duty_barman_meet_2">
-		<text>Welcome to the best bar in the whole zone!</text>
+		<text>Welcome to the best bar in the whole Zone!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_agroprom_agr_duty_barman_meet_3">
 		<text>Let me patch you up, stalker.</text>
@@ -62,7 +62,7 @@
 		<text>Wanna test your shooting skills?</text>
 	</string>
 	<string id="cc_characters_voice_scenario_agroprom_agr_duty_weaponmaster_meet_3">
-		<text>If you haven't had enough of this in the zone, come over and pop a few targets. Unlike out there, these don't shoot back.</text>
+		<text>If you haven't had enough of this in the Zone, come over and pop a few targets. Unlike out there, these don't shoot back.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_agroprom_agr_duty_weaponmaster_meet_bye_1">
 		<text>Man, you blew my mind with those scores!</text>
@@ -92,7 +92,7 @@
 		<text>My zoo is always open to visitors.</text>
 	</string>
 	<string id="characters_voice_scenario_agroprom_agr_main_hole_actor_arrive">
-		<text>Stalker, we've been waiting for you. Come closer, I'll explain what's going on.</text>
+		<text>Stalker, we've been waiting for you. Come over here, I'll explain what's going on.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_agroprom_agr_secret_trader_meet_1">
 		<text>What brings you here, Merc?</text>
@@ -104,28 +104,28 @@
 		<text>Stand fast! Hold your positions!</text>
 	</string>
 	<string id="characters_voice_scenario_agroprom_bloodsucker_comander_to_squad_2">
-		<text>Don't panic!</text>
+		<text>DON'T PANIC!</text>
 	</string>
 	<string id="characters_voice_scenario_agroprom_bloodsucker_fear_1">
-		<text>Damn, what is that?</text>
+		<text>Damn, what is that?!</text>
 	</string>
 	<string id="characters_voice_scenario_agroprom_bloodsucker_fear_2">
-		<text>Did you hear that?</text>
+		<text>Did you hear that?!</text>
 	</string>
 	<string id="characters_voice_scenario_agroprom_bloodsucker_fear_3">
-		<text>What was that?</text>
+		<text>What was that?!</text>
 	</string>
 	<string id="characters_voice_scenario_agroprom_bloodsucker_fear_after_1">
-		<text>Freakin' blood sucker!</text>
+		<text>FREAKIN' BLOOD SUCKER!!!</text>
 	</string>
 	<string id="characters_voice_scenario_agroprom_bloodsucker_fear_after_2">
-		<text>Damn mutant!</text>
+		<text>DAMN MUTANT!!!</text>
 	</string>
 	<string id="characters_voice_scenario_agroprom_bloodsucker_fear_after_3">
-		<text>Curse that bastard!</text>
+		<text>CURSE THAT BASTARD!!!</text>
 	</string>
 	<string id="characters_voice_scenario_agroprom_bloodsucker_fear_after_4">
-		<text>Oh crap, what the hell is that thing?</text>
+		<text>Oh crap, what the hell is that thing?!</text>
 	</string>
 	<string id="characters_voice_scenario_agroprom_bloodsucker_fear_after_5">
 		<text>Keep your eyes peeled!</text>
@@ -134,24 +134,22 @@
 		<text>Boys, stay alert!</text>
 	</string>
 	<string id="characters_voice_scenario_agroprom_bloodsucker_fear_fire_1">
-		<text>Die, you blood-sucking scum!</text>
+		<text>DIE, YOU BLOOD-SUCKING SCUM!!!</text>
 	</string>
 	<string id="characters_voice_scenario_agroprom_bloodsucker_fear_fire_2">
-		<text>There it is!</text>
+		<text>There it is!!!</text>
 	</string>
 	<string id="characters_voice_scenario_agroprom_bloodsucker_squad_fear_1">
-		<text>Not again!</text>
+		<text>NOT AGAIN!!!</text>
 	</string>
 	<string id="characters_voice_scenario_agroprom_bloodsucker_squad_fear_2">
 		<text>Let's hope we make it!</text>
 	</string>
 	<string id="characters_voice_scenario_agroprom_bloodsucker_squad_fear_3">
-		<text>Maybe it's nothing.</text>
+		<text>Maybe it's nothing...</text>
 	</string>
 	<string id="characters_voice_scenario_agroprom_underground_agru_radio">
-		<text>%c[default]Guys, this is Strelok. I didn't expect Doc to fix me up so fast. I heard rumors that someone has learned of our success and is seeking to contact us. I have a bad feeling about this. I fear we may need to hurry up with our next visit to the center.
-			\n%c[ui_8]Hey Strelok, glad to see you alive. Fang and I found all the parts we needed and put together two decoders. We left them both in a stash near the Scorcher. We'll pick them up when we head for the center.
-			\n%c[default]Ghost, that's great news. Our plan is as follows. We can't make it through the underground, so our only option is to go past the Scorcher. I'm on my way to Sakharov to pick up a device that will help us get through the Scorcher in one piece. Wait for me at the military warehouses.</text>
+		<text>%c[default]Guys, this is Strelok. I didn't expect Doc to fix me up so fast. I heard rumors that someone has learned of our success and is seeking to contact us. I have a bad feeling about this. I fear we may need to hurry up with our next visit to the center. %c[ui_8]Hey Strelok, glad to see you alive. Fang and I found all the parts we needed and put together two decoders. We left them both in a stash near the Scorcher. We'll pick them up when we head for the center. %c[default]Ghost, that's great news. Our plan is as follows. We can't make it through the underground, so our only option is to go past the Scorcher. I'm on my way to Sakharov to pick up a device that will help us get through the Scorcher in one piece. Wait for me at the military warehouses.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_barmen_meet_1">
 		<text>Yo bro, I'll be with you in a sec.</text>
@@ -244,7 +242,7 @@
 		<text>Alrighty, show me your harvest!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_trader_meet_bye_1">
-		<text>BAM BAM TAKE YOU MERCENARY!</text>
+		<text>BAM, BAM, TAKE YOU MERCENARY!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_darkvalley_val_freedom_trader_meet_bye_2">
 		<text>Way to offload your crap on me! I'll know better next time!</text>
@@ -253,10 +251,7 @@
 		<text>Mercantilism's Mercantilism!</text>
 	</string>
 	<string id="characters_voice_scenario_darkvalley_val_killer_trep">
-		<text>Shit man, way to screw up! What a rotten son of a bitch that commandant!
-			\nAll that horse shit he gave us about how the outpost was out of ammo!
-			\nThose freedom bastards wounded two of our boys!
-			\n%c[ui_8]Enough yapping! Let's cover up our tracks and get out of here!</text>
+		<text>Shit man, way to screw up! What a rotten son of a bitch that commandant! All that horse shit he gave us about how the outpost was out of ammo! Those freedom bastards wounded two of our boys! %c[ui_8]Enough yapping! Let's cover up our tracks and get out of here!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_escape_esc_stalker_leader_meet_1">
 		<text>Ah, a living soul in a realm of death and chaos!</text>
@@ -265,10 +260,10 @@
 		<text>You were sent to me by none other than the hand of God, only I don't really know why or what for.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_escape_esc_stalker_leader_meet_3">
-		<text>Wanna know the truth about the zone? So do I. Let's share.</text>
+		<text>Wanna know the truth about the Zone? So do I. Let's share.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_escape_esc_stalker_leader_meet_bye_1">
-		<text>Alright, go on with your mission then, mercenary.</text>
+		<text>Alright, go on with your mission then, Mercenary.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_escape_esc_stalker_leader_meet_bye_2">
 		<text>I'm positive you're not as simple as you look.</text>
@@ -349,7 +344,7 @@
 		<text>What you got in there?</text>
 	</string>
 	<string id="characters_voice_scenario_escape_esc_trader_wait_1">
-		<text>Don't just stand there, eh?</text>
+		<text>Don't just stand there, ehhh?</text>
 	</string>
 	<string id="characters_voice_scenario_escape_esc_trader_wait_2">
 		<text>Come on, tell me what you got for me!</text>
@@ -361,10 +356,10 @@
 		<text>Hello, anyone home?</text>
 	</string>
 	<string id="characters_voice_scenario_escape_megafon_1">
-		<text>Attention! You're approaching the secured perimeter of an ecological disaster zone! Illicit crossing of the perimeter is a criminal act!</text>
+		<text>Attention! You're approaching the secured perimeter of an ecological disaster Zone! Illicit crossing of the perimeter is a criminal act!</text>
 	</string>
 	<string id="characters_voice_scenario_escape_megafon_2">
-		<text>Any attempt to penetrate the secured zone will be punished by any means necessary! Patrols have the right to shoot on sight!</text>
+		<text>Any attempt to penetrate the secured Zone will be punished by any means necessary! Patrols have the right to shoot on sight!</text>
 	</string>
 	<string id="characters_voice_scenario_escape_megafon_3">
 		<text>The Zone poses mortal danger! We're here to protect you from the Zone, not the Zone from you. Do not jeopardize your life! Do not try to penetrate into the secured area!</text>
@@ -538,19 +533,19 @@
 		<text>Did you hear that?</text>
 	</string>
 	<string id="characters_voice_scenario_marsh_bloodsucker_fear_3">
-		<text>What was that?!</text>
+		<text>WHAT WAS THAT?!</text>
 	</string>
 	<string id="characters_voice_scenario_marsh_bloodsucker_fear_after_1">
-		<text>A friggin' bloodsucker!</text>
+		<text>A FRIGGIN' BLOODSUCKER!!!</text>
 	</string>
 	<string id="characters_voice_scenario_marsh_bloodsucker_fear_after_2">
-		<text>Damn mutant!</text>
+		<text>DAMN MUTANT!!!</text>
 	</string>
 	<string id="characters_voice_scenario_marsh_bloodsucker_fear_after_3">
-		<text>Curse that bastard!</text>
+		<text>CURSE THAT BASTARD!!!</text>
 	</string>
 	<string id="characters_voice_scenario_marsh_bloodsucker_fear_after_4">
-		<text>Oh crap, what the hell is that thing?</text>
+		<text>Oh crap, what the hell is that thing?!</text>
 	</string>
 	<string id="characters_voice_scenario_marsh_bloodsucker_fear_after_5">
 		<text>Keep your eyes peeled!</text>
@@ -559,13 +554,13 @@
 		<text>Boys, stay alert!</text>
 	</string>
 	<string id="characters_voice_scenario_marsh_bloodsucker_fear_fire_1">
-		<text>Die, you blood-sucking scum!</text>
+		<text>DIE, YOU BLOOD-SUCKING SCUM!!!</text>
 	</string>
 	<string id="characters_voice_scenario_marsh_bloodsucker_fear_fire_2">
 		<text>There it is!</text>
 	</string>
 	<string id="characters_voice_scenario_marsh_bloodsucker_squad_fear_1">
-		<text>Not again!</text>
+		<text>NOT AGAIN!!!</text>
 	</string>
 	<string id="characters_voice_scenario_marsh_bloodsucker_squad_fear_2">
 		<text>Cross your fingers!</text>
@@ -595,7 +590,7 @@
 		<text>If you need me, you know where to find me.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_doctor_meet_bye_2">
-		<text>Hmm, if that is all, I better get back to my work.</text>
+		<text>Hmmm, if that is all, I better get back to my work.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_doctor_meet_bye_3">
 		<text>Hopefully my answers will be of help to us all.</text>
@@ -604,7 +599,7 @@
 		<text>Can I help you?</text>
 	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_doctor_meet_greet_2">
-		<text>Oh, I didn't notice you come in.</text>
+		<text>Hmmm. Hmmmm. Oh, I didn't notice you come in.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_doctor_meet_greet_3">
 		<text>Ah, it's you!</text>
@@ -613,10 +608,10 @@
 		<text>If you learn any news, come back and share it with me.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_leader_meet_bye_2">
-		<text>See you.</text>
+		<text>See you!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_leader_meet_bye_3">
-		<text>Stay in touch, we may need your help soon.</text>
+		<text>Stay in touch! We may need your help soon.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_leader_meet_bye_4">
 		<text>Come see me if you learn something important.</text>
@@ -628,10 +623,10 @@
 		<text>Glad to see you. Got any new questions for me?</text>
 	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_leader_meet_greet_3">
-		<text>What brings you here, mercenary?</text>
+		<text>What brings you here, Mercenary?</text>
 	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_leader_meet_greet_4">
-		<text>Speak of the devil, I was just thinking of you.</text>
+		<text>Speaking of the devil, I was just thinking of you.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_tech_meet_bye_1">
 		<text>Remember, to be a good shooter, get your gun talking at the right time.</text>
@@ -646,7 +641,7 @@
 		<text>I'll be there in a moment.</text>
 	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_tech_meet_greet_2">
-		<text>Need something upgraded or repaired? We got enough duct tape to patch the whole zone up if need be!</text>
+		<text>Need something upgraded or repaired? We got enough duct tape to patch the whole Zone up if need be!</text>
 	</string>
 	<string id="cc_characters_voice_scenario_marsh_mar_csky_tech_meet_greet_3">
 		<text>I repair faults in hardware, not in its owner's arms.</text>
@@ -679,7 +674,7 @@
 		<text>Hope to see you again!</text>
 	</string>
 	<string id="characters_voice_scenario_red_forest_red_forester_meet_hello_0">
-		<text>A living soul? Well, hello!</text>
+		<text>A living soul...? Well, hello!</text>
 	</string>
 	<string id="characters_voice_scenario_red_forest_red_forester_meet_hello_1">
 		<text>What brings you to my forest, young man?</text>
