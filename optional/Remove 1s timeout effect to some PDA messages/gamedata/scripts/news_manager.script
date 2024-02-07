@@ -147,7 +147,7 @@ function send_sound(npc, faction, point, str, str2)
 		news_caption = news_caption..":"
 	end
 
-	db.actor:give_game_news(news_caption, news_text, texture, 1000, 5000, 1)
+	db.actor:give_game_news(news_caption, news_text, texture, 0, 5000, 1)
 end
 
 local action_descr_by_type =
