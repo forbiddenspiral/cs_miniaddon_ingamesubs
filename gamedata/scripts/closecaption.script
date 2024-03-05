@@ -10,60 +10,16 @@
 --id														= texture
 tips_icons =
 {
-	bandit                        = "ui_npc_small_bandit_1",
 	csky                          = "ui_npc_small_nebo_1",
-	dolg                          = "ui_npc_small_dolg_1",
-	ecolog                        = "ui_iconsNpc_ecolog",
-	freedom                       = "ui_npc_small_freedom_1",
 	killer                        = "ui_npc_small_merc_2",
 	army                          = "ui_npc_small_soldier_2",
-	monolith                      = "ui_npc_small_monolith_1",
-	stalker                       = "ui_npc_small_neutral_1",
-	trader                        = "ui_iconsNpc_trader",
-	zombied                       = "ui_npc_small_zombied_1",
-	renegade                      = "ui_npc_small_bandit_1",
-
-	mar_csky_commander_name       = "ui_npc_small_nebo_2_face_1",
-	mar_csky_scientist_name       = "ui_npc_small_nebo_2_face_2",
-	mar_csky_tech_name            = "ui_npc_small_nebo_2_face_3",
-	mar_csky_barman               = "ui_npc_small_nebo_2_face_4",
-	escape_trader_name            = "ui_npc_small_trader_1",
-	esc_leader_stalkerbase_name   = "ui_npc_small_neutral_2_face_2",
-	esc_driver_name               = "ui_npc_small_soldier_1",
-	esc_zak_stalkerbase_name      = "ui_npc_small_soldier_2_face_1",
-	gar_bandit_leader_name        = "ui_npc_small_bandit_3_face_1",
-	gar_bandit_barman_name        = "ui_npc_small_bandit_3_face_2",
-	gar_digger_quester_name       = "ui_npc_small_neutral_2_face_1",
-	agr_duty_base_commander_name  = "ui_npc_small_dolg_2_face_1",
-	agr_weaponmaster_name         = "ui_npc_small_dolg_2_mask",
-	agr_barman_name               = "ui_npc_u_dolg_2_face_2",
-	val_freedom_leader_name       = "ui_npc_small_freedom_2_face_2",
-	val_freedom_trader_name       = "ui_npc_small_freedom_2_mask",
-	red_forester_name             = "ui_npc_small_lesnik_1",
-	yan_st_sakharov_name          = "ui_npc_small_ucheniy_1",
 
 	-- SRP additions:
-
 	val_freedom_comendant_name    = "ui_npc_small_freedom_3",
-	agr_holeman_name              = "ui_npc_small_dolg_2_mask",
-	sim_strelok_name              = "ui_npc_small_neutral_2",
-	agr_stalker_base_leader_name  = "ui_npc_small_neutral_2_mask",
-	esc_wolf_name                 = "ui_npc_small_neutral_2",
-	gar_digger_traitor_name       = "ui_npc_small_neutral_1",
-	gar_bandit_minigame_name      = "ui_npc_small_bandit_1",
-	gar_digger_messenger_man_name = "ui_npc_small_neutral_1",
-	mar_csky_barman_name          = "ui_npc_small_nebo_2_face_4",
-	mar_csky_guide_name           = "ui_npc_small_nebo_1",
-	mil_kostiuk_name              = "ui_npc_small_freedom_4",
 	mil_hog_name                  = "ui_npc_small_merc_4",
-	red_ally_leshiy_name          = "ui_npc_small_neutral_2_mask",
-	yan_st_levsha_name            = "ui_npc_small_neutral_2_mask",
-	yan_levshas_crew              = "ui_npc_small_neutral_2",
 
 	-- Subs additions:
-
 	gar_bandit_robbery						= "ui_npc_small_bandit_3",
-	temporal_icon									= "ui_npc_small_zombied_4",
 }
 
 --id																											=	{showtime}

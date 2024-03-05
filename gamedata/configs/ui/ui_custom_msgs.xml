@@ -185,38 +185,6 @@
 		<text font="graffiti22" r="180" g="172" b="148" a="255" align="c"/>
 	</closecaption_2>
 
-	<closecaption_3  x="512" y="600" width="600" height="72" alignment="c" complex_mode="1">	<!-- distant voice, "shouting from afar" -->
-		<text font="graffiti22" r="216" g="186" b="140" a="255" align="c"/>
-	</closecaption_3>
-
-	<closecaption_4  x="512" y="670" width="600" height="72" alignment="c" complex_mode="1">	<!-- second talker -->
-		<text font="graffiti22" r="238" g="155" b="23" a="255" align="c"/>
-	</closecaption_4>
-
-	<closecaption_5  x="512" y="635" width="600" height="72" alignment="c" complex_mode="1">	<!-- Monolith, "mind voice" -->
-		<text font="graffiti22" r="140" g="195" b="214" a="255" align="c"/>
-	</closecaption_5>
-
-	<closecaption_6  x="512" y="530" width="600" height="72" alignment="c" complex_mode="1">	<!-- "speaker" -->
-		<text font="graffiti22" r="255" g="255" b="255" a="255" align="c"/>
-	</closecaption_6>
-
-	<closecaption_7  x="512" y="670" width="600" height="72" alignment="c" complex_mode="1">	<!-- "suit voice" -->
-		<text font="graffiti22" r="176" g="176" b="172" a="255" align="c"/>
-	</closecaption_7>
-
-	<closecaption_8  x="512" y="670" width="600" height="72" alignment="c" complex_mode="1">	<!-- ignore, for debugging -->
-		<text font="graffiti22" r="176" g="176" b="172" a="255" align="c"/>
-	</closecaption_8>
-
-	<closecaption_9  x="512" y="600" width="600" height="72" alignment="c" complex_mode="1">	<!-- [closed caption] -->
-		<text font="graffiti22" r="240" g="192" b="0" a="255" align="c"/>
-	</closecaption_9>
-
-	<closecaption_10  x="512" y="490" width="600" height="72" alignment="c" complex_mode="1">	<!-- ignore, for debugging -->
-		<text font="graffiti22" r="240" g="192" b="0" a="255" align="c"/>
-	</closecaption_10>
-
 	<closecaption_leader  x="280" y="114" width="420" height="72" alignment="l" complex_mode="1">	<!-- csky leader -->
 		<texture x="0" y="0" width="464" height="173" a="128">intro\intro_back</texture>
 		<text x="10" y="10" font="letterica18" r="216" g="186" b="140" a="255" align="l"/>
