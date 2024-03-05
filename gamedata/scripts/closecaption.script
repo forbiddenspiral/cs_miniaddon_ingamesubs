@@ -335,15 +335,6 @@ obj_snds =
 	characters_voice_scenario_garbage_gar_robbery_scene_return_3	=	{-1, 2.6, "gar_bandit_robbery"},
 }
 
--- p:string
-function cc_display_mobsnd(p)
-	local cc_id = string.gsub(p, "\\", "_")
-	local cc_value = mob_snds[cc_id]
-	if cc_value then
-		cc_display_subs(cc_id, 1, cc_value[1]) -- only for Sid and Forester
-	end
-end
-
 -- cc_id:string
 function cc_display_npcsnd(cc_id)
 	local cc_value = npc_snds[cc_id]
@@ -368,6 +359,11 @@ function cc_display_sndpath(p, obj)
 				if dist <= cc_value[3] then
 					cc_display_subs(cc_id, cc_value[1], cc_value[2]) -- megafon and soldier
 				end
+			end
+		else
+			cc_value = mob_snds[cc_id]
+			if cc_value then
+				cc_display_subs(cc_id, 1, cc_value[1]) -- only for Sidorovich and Forester
 			end
 		end
 	end

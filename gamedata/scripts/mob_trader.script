@@ -79,7 +79,7 @@ function mob_trader:reset_scheme()
 			local snd = mob_sound.pick_sound_from_set(sobj, self_st.sound_phrase) --, {})
 			sobj:set_trader_sound(snd, self:select_head_animation())
 			if closecaption then
-				closecaption.cc_display_mobsnd(snd)
+				closecaption.cc_display_sndpath(snd)
 			end
 		end
 	end
