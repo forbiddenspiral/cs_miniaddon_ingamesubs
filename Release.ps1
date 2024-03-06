@@ -13,7 +13,7 @@ $project_folder = "$workspace_folder\CS-MAIN-PROJECT"
 Set-Location $release_folder
 
 # Define the version for this release.
-$patch_version = "v0.2"
+$patch_version = "v0.3"
 
 # Begin release process.
 Write-Host "====================" -ForegroundColor Green
