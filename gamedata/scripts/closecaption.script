@@ -336,7 +336,7 @@ function cc_display_subs(cc_id, color, showtime)
 		local tmpl = "closecaption_" .. color
 		local hud = get_hud()
 		hud:AddCustomStatic(tmpl, true)
-		hud:GetCustomStatic(tmpl):wnd():SetTextST(game.translate_string(cc_id))
+		hud:GetCustomStatic(tmpl):wnd():SetText(game.translate_string(cc_id))
 		hud:GetCustomStatic(tmpl).m_endTime = time_ccend
 	elseif db.cc_npc == nil then
 		read_cc_ini()

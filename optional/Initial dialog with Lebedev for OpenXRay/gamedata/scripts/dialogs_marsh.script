@@ -64,6 +64,6 @@ end
 function cc_display_leader(cc_id, showtime)
 	local hud = get_hud()
 	hud:AddCustomStatic("closecaption_leader", true)
-	hud:GetCustomStatic("closecaption_leader"):wnd():SetTextST(game.translate_string(cc_id))
+	hud:GetCustomStatic("closecaption_leader"):wnd():SetText(game.translate_string(cc_id))
 	hud:GetCustomStatic("closecaption_leader").m_endTime = time_global()/1000 + showtime
 end
