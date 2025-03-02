@@ -3,7 +3,6 @@
 Copy-CS.ps1
 CS-MAIN-PROJECT.code-workspace
 NOTES.md
-# Release.ps1
 Run-CS.ps1
 Unset-Read-Only.ps1
 
